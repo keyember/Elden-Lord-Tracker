@@ -22,28 +22,28 @@ echo Cette regle est validee par la documentation EMEVD officielle.
 echo Toutes les 207 rencontres seront marquees comme "documented".
 echo.
 if exist ".venv\Scripts\python.exe" (
-  ".venv\Scripts\python.exe" -B "generer_207_associations_final.py" %*
+  ".venv\Scripts\python.exe" -B "generer_207_associations_final.py" %%*
   goto fin
 )
 if exist "venv\Scripts\python.exe" (
-  "venv\Scripts\python.exe" -B "generer_207_associations_final.py" %*
+  "venv\Scripts\python.exe" -B "generer_207_associations_final.py" %%*
   goto fin
 )
 where py >nul 2>nul
 if not errorlevel 1 (
-  py -3 -B "generer_207_associations_final.py" %*
+  py -3 -B "generer_207_associations_final.py" %%*
   goto fin
 )
 where python >nul 2>nul
 if not errorlevel 1 (
-  python -B "generer_207_associations_final.py" %*
+  python -B "generer_207_associations_final.py" %%*
   goto fin
 )
 echo ERREUR - Aucun Python trouve.
 pause
 exit /b 1
 :fin
-set "code=%errorlevel%"
-if not "%code%"=="0" echo Le script a signale une erreur. Lire les lignes ci-dessus.
+set "code=%%errorlevel%%"
+if not "%%code%%"=="0" echo Le script a signale une erreur. Lire les lignes ci-dessus.
 pause
-exit /b %code%
+exit /b %%code%%
