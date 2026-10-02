@@ -1,0 +1,39 @@
+{
+  "audit_date": "2026-10-02",
+  "tracker_commit": "276e455050acc983801a849c7cb741c80415bd5f",
+  "configuration_blob_sha_verified": "98ec464b89f6c3002501c8e735cf4a6a67279043",
+  "catalogue_configuration_entries": 207,
+  "reference_rows": 204,
+  "match_counts": {
+    "numeric_key_match": 191,
+    "alias_by_name_current_flag_not_read": 3,
+    "numeric_key_absent_in_reference": 11,
+    "numeric_key_match_unidentified_reference_name": 2
+  },
+  "reference_absent_keys": [
+    "flag_1039430800",
+    "flag_1036480800",
+    "flag_1037420800",
+    "flag_1036450800",
+    "flag_1038510800",
+    "flag_1042550800",
+    "flag_1039510800",
+    "flag_1044530800",
+    "flag_30200800",
+    "flag_12030390",
+    "flag_2049440800"
+  ],
+  "current_configured_active_flags": 10,
+  "additional_active_flags_verified_in_local_scripts": {
+    "flag_30110800": 30112805,
+    "flag_30040800": 30042805
+  },
+  "current_flags_or_runtime_modified": false,
+  "limitations": [
+    "Numeric matches compare encoded encounter keys; they do not validate runtime behaviour or all current catalogue labels.",
+    "The three legacy aliases require checking their flag_id in boss_catalog.json; reference IDs are not treated as verified current IDs.",
+    "XXXX entries are not resolved encounter names.",
+    "The named reference is a boss-defeat list, not a comprehensive fight-active list.",
+    "The translated detailed reference was located in an index but not retrieved."
+  ]
+}
