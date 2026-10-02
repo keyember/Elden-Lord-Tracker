@@ -4,11 +4,11 @@
       "active_flag": 10012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -16,11 +16,11 @@
       "active_flag": 1033422805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -28,11 +28,11 @@
       "active_flag": 1033432805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -40,11 +40,11 @@
       "active_flag": 1033452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -52,11 +52,11 @@
       "active_flag": 1034422805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -64,11 +64,11 @@
       "active_flag": 1034452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -76,11 +76,11 @@
       "active_flag": 1034482805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -88,11 +88,11 @@
       "active_flag": 1035422805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -100,11 +100,11 @@
       "active_flag": 1035502805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -112,11 +112,11 @@
       "active_flag": 1035532805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -124,11 +124,11 @@
       "active_flag": 1036452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -136,11 +136,11 @@
       "active_flag": 1036482805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -148,11 +148,11 @@
       "active_flag": 1036502805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -160,11 +160,11 @@
       "active_flag": 1036542805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -172,11 +172,11 @@
       "active_flag": 1037422805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -184,11 +184,11 @@
       "active_flag": 1037462805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -196,11 +196,11 @@
       "active_flag": 1037532805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -208,11 +208,11 @@
       "active_flag": 1037542815,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -220,11 +220,11 @@
       "active_flag": 1038412805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -232,11 +232,11 @@
       "active_flag": 1038482805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -244,11 +244,11 @@
       "active_flag": 1038512805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -256,11 +256,11 @@
       "active_flag": 1038522805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -268,11 +268,11 @@
       "active_flag": 1039432805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -280,11 +280,11 @@
       "active_flag": 1039442805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -292,11 +292,11 @@
       "active_flag": 1039502805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -304,11 +304,11 @@
       "active_flag": 1039512805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -316,11 +316,11 @@
       "active_flag": 1039542805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -328,11 +328,11 @@
       "active_flag": 1040522805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -340,11 +340,11 @@
       "active_flag": 1040532805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -352,11 +352,11 @@
       "active_flag": 1041502805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -364,11 +364,11 @@
       "active_flag": 1041512805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -376,11 +376,11 @@
       "active_flag": 1041522805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -388,11 +388,11 @@
       "active_flag": 1041532805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -400,11 +400,11 @@
       "active_flag": 1042332805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -412,11 +412,11 @@
       "active_flag": 1042362805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -424,11 +424,11 @@
       "active_flag": 1042372805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -436,11 +436,11 @@
       "active_flag": 1042382805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -448,11 +448,11 @@
       "active_flag": 1042382855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -460,11 +460,11 @@
       "active_flag": 1042552805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -472,11 +472,11 @@
       "active_flag": 1043302805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -484,11 +484,11 @@
       "active_flag": 1043332805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -496,11 +496,11 @@
       "active_flag": 1043362805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -508,11 +508,11 @@
       "active_flag": 1043372805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -520,11 +520,11 @@
       "active_flag": 1043532805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -532,11 +532,11 @@
       "active_flag": 1044322805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -544,11 +544,11 @@
       "active_flag": 1044322855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -556,11 +556,11 @@
       "active_flag": 1044352805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -568,11 +568,11 @@
       "active_flag": 1044362805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -580,11 +580,11 @@
       "active_flag": 1044532805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -592,11 +592,11 @@
       "active_flag": 1045392805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -604,11 +604,11 @@
       "active_flag": 1045522805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -616,11 +616,11 @@
       "active_flag": 1047402805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -628,11 +628,11 @@
       "active_flag": 1048372805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -640,11 +640,11 @@
       "active_flag": 1048402805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -652,11 +652,11 @@
       "active_flag": 1048412805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -664,11 +664,11 @@
       "active_flag": 1048512805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -676,11 +676,11 @@
       "active_flag": 1048572805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -688,11 +688,11 @@
       "active_flag": 1049372805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -700,11 +700,11 @@
       "active_flag": 1049372855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -712,11 +712,11 @@
       "active_flag": 1049382805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -724,11 +724,11 @@
       "active_flag": 1049392805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -736,11 +736,11 @@
       "active_flag": 1049392855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -748,11 +748,11 @@
       "active_flag": 1049522805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -760,11 +760,11 @@
       "active_flag": 1050562805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -772,11 +772,11 @@
       "active_flag": 1050572805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -784,11 +784,11 @@
       "active_flag": 1050572855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -796,11 +796,11 @@
       "active_flag": 1051362805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -808,11 +808,11 @@
       "active_flag": 1051402805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -820,11 +820,11 @@
       "active_flag": 1051432805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -832,11 +832,11 @@
       "active_flag": 1051572805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -844,11 +844,11 @@
       "active_flag": 1052412805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -856,11 +856,11 @@
       "active_flag": 1052412855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -868,11 +868,11 @@
       "active_flag": 1052522805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -880,11 +880,11 @@
       "active_flag": 1052562805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -892,11 +892,11 @@
       "active_flag": 1053562805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -904,11 +904,11 @@
       "active_flag": 11002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -916,11 +916,11 @@
       "active_flag": 11002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -928,11 +928,11 @@
       "active_flag": 11052805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -940,11 +940,11 @@
       "active_flag": 11052855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -952,11 +952,11 @@
       "active_flag": 12012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -964,11 +964,11 @@
       "active_flag": 12012855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -976,11 +976,11 @@
       "active_flag": 12022805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -988,11 +988,11 @@
       "active_flag": 12022835,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1000,11 +1000,11 @@
       "active_flag": 12022855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1012,11 +1012,11 @@
       "active_flag": 12032395,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1024,11 +1024,11 @@
       "active_flag": 12032805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1036,11 +1036,11 @@
       "active_flag": 12032855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1048,11 +1048,11 @@
       "active_flag": 12042805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1060,11 +1060,11 @@
       "active_flag": 12052805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1072,11 +1072,11 @@
       "active_flag": 12082805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1084,11 +1084,11 @@
       "active_flag": 12092805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1096,11 +1096,11 @@
       "active_flag": 1248552805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1108,11 +1108,11 @@
       "active_flag": 1254562805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1120,11 +1120,11 @@
       "active_flag": 13002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1132,11 +1132,11 @@
       "active_flag": 13002835,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1144,11 +1144,11 @@
       "active_flag": 13002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1156,11 +1156,11 @@
       "active_flag": 14002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1168,11 +1168,11 @@
       "active_flag": 14002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1180,11 +1180,11 @@
       "active_flag": 15002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1192,11 +1192,11 @@
       "active_flag": 15002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1204,11 +1204,11 @@
       "active_flag": 16002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1216,11 +1216,11 @@
       "active_flag": 16002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1228,11 +1228,11 @@
       "active_flag": 16002865,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1240,11 +1240,11 @@
       "active_flag": 18002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1252,11 +1252,11 @@
       "active_flag": 18002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1264,11 +1264,11 @@
       "active_flag": 19002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1276,11 +1276,11 @@
       "active_flag": 20002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1288,11 +1288,11 @@
       "active_flag": 20012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1300,11 +1300,11 @@
       "active_flag": 2044452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1312,11 +1312,11 @@
       "active_flag": 2044472805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1324,11 +1324,11 @@
       "active_flag": 2045442805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1336,11 +1336,11 @@
       "active_flag": 2046382805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1348,11 +1348,11 @@
       "active_flag": 2046402805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1360,11 +1360,11 @@
       "active_flag": 2046412805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1372,11 +1372,11 @@
       "active_flag": 2046452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1384,11 +1384,11 @@
       "active_flag": 2046462805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1396,11 +1396,11 @@
       "active_flag": 2047392805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1408,11 +1408,11 @@
       "active_flag": 2047452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1420,11 +1420,11 @@
       "active_flag": 2048382855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1432,11 +1432,11 @@
       "active_flag": 2048442805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1444,11 +1444,11 @@
       "active_flag": 2049412805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1456,11 +1456,11 @@
       "active_flag": 2049432805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1468,11 +1468,11 @@
       "active_flag": 2049432855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1480,11 +1480,11 @@
       "active_flag": 2049442805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1492,11 +1492,11 @@
       "active_flag": 2049452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1504,11 +1504,11 @@
       "active_flag": 2049482805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1516,11 +1516,11 @@
       "active_flag": 2050472805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1528,11 +1528,11 @@
       "active_flag": 2050482805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1540,11 +1540,11 @@
       "active_flag": 2050482865,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1552,11 +1552,11 @@
       "active_flag": 2051442805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1564,11 +1564,11 @@
       "active_flag": 2051452805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1576,11 +1576,11 @@
       "active_flag": 2052402805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1588,11 +1588,11 @@
       "active_flag": 2052432805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1600,11 +1600,11 @@
       "active_flag": 2052482805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1612,11 +1612,11 @@
       "active_flag": 2054392805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1624,11 +1624,11 @@
       "active_flag": 2054392855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1636,11 +1636,11 @@
       "active_flag": 21002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1648,11 +1648,11 @@
       "active_flag": 21012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1660,11 +1660,11 @@
       "active_flag": 22002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1672,11 +1672,11 @@
       "active_flag": 25002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1684,11 +1684,11 @@
       "active_flag": 28002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1696,11 +1696,11 @@
       "active_flag": 30002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1708,11 +1708,11 @@
       "active_flag": 30012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1720,11 +1720,11 @@
       "active_flag": 30022805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1732,11 +1732,11 @@
       "active_flag": 30032805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1744,11 +1744,11 @@
       "active_flag": 30042805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1756,11 +1756,11 @@
       "active_flag": 30052805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1768,11 +1768,11 @@
       "active_flag": 30052855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1780,11 +1780,11 @@
       "active_flag": 30062805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1792,11 +1792,11 @@
       "active_flag": 30072805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1804,11 +1804,11 @@
       "active_flag": 30082805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1816,11 +1816,11 @@
       "active_flag": 30092805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1828,11 +1828,11 @@
       "active_flag": 30102805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1840,11 +1840,11 @@
       "active_flag": 30112805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1852,11 +1852,11 @@
       "active_flag": 30122805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1864,11 +1864,11 @@
       "active_flag": 30132805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1876,11 +1876,11 @@
       "active_flag": 30142805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1888,11 +1888,11 @@
       "active_flag": 30152805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1900,11 +1900,11 @@
       "active_flag": 30162805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1912,11 +1912,11 @@
       "active_flag": 30172805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1924,11 +1924,11 @@
       "active_flag": 30182805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1936,11 +1936,11 @@
       "active_flag": 30192805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1948,11 +1948,11 @@
       "active_flag": 30202805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1960,11 +1960,11 @@
       "active_flag": 31002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1972,11 +1972,11 @@
       "active_flag": 31012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1984,11 +1984,11 @@
       "active_flag": 31022805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -1996,11 +1996,11 @@
       "active_flag": 31032805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2008,11 +2008,11 @@
       "active_flag": 31042805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2020,11 +2020,11 @@
       "active_flag": 31052805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2032,11 +2032,11 @@
       "active_flag": 31062805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2044,11 +2044,11 @@
       "active_flag": 31072805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2056,11 +2056,11 @@
       "active_flag": 31092805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2068,11 +2068,11 @@
       "active_flag": 31102805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2080,11 +2080,11 @@
       "active_flag": 31112805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2092,11 +2092,11 @@
       "active_flag": 31122805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2104,11 +2104,11 @@
       "active_flag": 31152805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2116,11 +2116,11 @@
       "active_flag": 31172805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2128,11 +2128,11 @@
       "active_flag": 31182805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2140,11 +2140,11 @@
       "active_flag": 31192805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2152,11 +2152,11 @@
       "active_flag": 31192855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2164,11 +2164,11 @@
       "active_flag": 31202805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2176,11 +2176,11 @@
       "active_flag": 31212805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2188,11 +2188,11 @@
       "active_flag": 31222805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2200,11 +2200,11 @@
       "active_flag": 32002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2212,11 +2212,11 @@
       "active_flag": 32012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2224,11 +2224,11 @@
       "active_flag": 32022805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2236,11 +2236,11 @@
       "active_flag": 32042805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2248,11 +2248,11 @@
       "active_flag": 32052805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2260,11 +2260,11 @@
       "active_flag": 32072805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2272,11 +2272,11 @@
       "active_flag": 32082805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2284,11 +2284,11 @@
       "active_flag": 32112805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2296,11 +2296,11 @@
       "active_flag": 34122805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2308,11 +2308,11 @@
       "active_flag": 34132805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2320,11 +2320,11 @@
       "active_flag": 34142855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2332,11 +2332,11 @@
       "active_flag": 35002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2344,11 +2344,11 @@
       "active_flag": 35002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2356,11 +2356,11 @@
       "active_flag": 39202805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2368,11 +2368,11 @@
       "active_flag": 40002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2380,11 +2380,11 @@
       "active_flag": 40012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2392,11 +2392,11 @@
       "active_flag": 41002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2404,11 +2404,11 @@
       "active_flag": 41012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2416,11 +2416,11 @@
       "active_flag": 41022805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2428,11 +2428,11 @@
       "active_flag": 43002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2440,11 +2440,11 @@
       "active_flag": 43012805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2452,11 +2452,11 @@
       "active_flag": 10002805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2464,11 +2464,11 @@
       "active_flag": 10002855,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     },
@@ -2476,11 +2476,11 @@
       "active_flag": 1252382805,
       "enabled": true,
       "source": {
-        "event": "emevd_event_flag_offset",
-        "parameter": "elden_ring_offset_2000_plus",
-        "path": "tutorial:learning-how-to-use-emevd",
-        "repository": "soulsmodding.com/doku.php",
-        "revision": "2025-02-27"
+        "event": "boss_combat_active",
+        "parameter": "computed_offset_2005",
+        "path": "audit_flags/rapprochement-207-rencontres.csv",
+        "repository": "keyember/Elden-Lord-Tracker",
+        "revision": "audit_flags_rapprochement"
       },
       "validation": "documented"
     }
