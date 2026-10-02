@@ -1,0 +1,17 @@
+{
+  "update": "classic_arenas_batch2_auto",
+  "files": {
+    "tracker/combat_registry.py": {
+      "before": "7fecf91b521afbbc9ed0c2c8b6aea0e804c2555fc35914548c91c4528021d932",
+      "after": "0eed53203fa3093c6e86ead811436110eb8288a7745950d203fa30659c218a48"
+    },
+    "tracker/catalogue_data/combat_catalog.json": {
+      "before": "c2578fa977c37a18b59d3bc9ab46f38e5192ce7ad7b41d617f918e5477d39aad",
+      "after": "eeb331b8fd8ccfbbedc22f06eb5a89d9da92fa698b5867269cc6b81a85b32c7c"
+    },
+    "tests/test_classic_arena_update.py": {
+      "before": "29ee064cf1a50199851cc24d5f4d788a1abdaee39531bf8251ea832b0bdac23b",
+      "after": "c23b52e17f49b9374449a2edb63215aa4e3f1a6c56c7bd90b7f7363d5dc88d52"
+    }
+  }
+}
