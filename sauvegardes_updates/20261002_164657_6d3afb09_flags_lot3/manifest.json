@@ -1,0 +1,90 @@
+{
+  "update": "sourced_flags_lot3_offline_v1",
+  "state": "applied",
+  "files": {
+    "tracker/combat_registry.py": {
+      "before": "71971650e3ab153dbbca3d48b5614cbea55e5e5094940a4555c38aa4413560e9",
+      "after": "b7ae8ddb5c5063335384b19ccc6a2f55063039e695dc36613b0955f7c316d1d9"
+    },
+    "tracker/catalogue_data/combat_catalog.json": {
+      "before": "86f714a7f8d012a595690356743abb67ffbd568a61cd468800805ec387d711bc",
+      "after": "5221485beee71491519eb5b12ff5eed39d306117491783b5b694752e53bbf2bf"
+    }
+  },
+  "summary": {
+    "catalogue_total": 207,
+    "active_supported": 32,
+    "configured": 47,
+    "user_tested": 3,
+    "documented": 44,
+    "not_configured": 160,
+    "added": [
+      "flag_32080800"
+    ],
+    "new_rows": [
+      {
+        "boss_id": "flag_32020800",
+        "name": "Danseur cristalien",
+        "place": "Raya Lucaria Crystal Tunnel",
+        "active_flag": 32022805,
+        "victory_flag": 32020800,
+        "enabled": true,
+        "validation": "documented"
+      },
+      {
+        "boss_id": "flag_32040800",
+        "name": "Troll fouisseur",
+        "place": "Old Altus Tunnel",
+        "active_flag": 32042805,
+        "victory_flag": 32040800,
+        "enabled": true,
+        "validation": "documented"
+      },
+      {
+        "boss_id": "flag_12040800",
+        "name": "Astel le Rejeton du vide",
+        "place": "Grand Cloister",
+        "active_flag": 12042805,
+        "victory_flag": 12040800,
+        "enabled": true,
+        "validation": "documented"
+      },
+      {
+        "boss_id": "flag_12080800",
+        "name": "Esprit ancestral",
+        "place": "Siofra River Bank",
+        "active_flag": 12082805,
+        "victory_flag": 12080800,
+        "enabled": true,
+        "validation": "documented"
+      },
+      {
+        "boss_id": "flag_32080800",
+        "name": "Créature stellaire",
+        "place": "Sellia Crystal Tunnel",
+        "active_flag": 32082805,
+        "victory_flag": 32080800,
+        "enabled": false,
+        "validation": "documented"
+      },
+      {
+        "boss_id": "flag_43000800",
+        "name": "Chef des démons sanglants",
+        "place": "Rivermouth Cave",
+        "active_flag": 43002805,
+        "victory_flag": 43000800,
+        "enabled": false,
+        "validation": "documented"
+      },
+      {
+        "boss_id": "flag_43010800",
+        "name": "Homme-dragon ancien",
+        "place": "Dragon's Pit",
+        "active_flag": 43012805,
+        "victory_flag": 43010800,
+        "enabled": false,
+        "validation": "documented"
+      }
+    ]
+  }
+}
