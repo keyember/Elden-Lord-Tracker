@@ -1,0 +1,919 @@
+{
+  "schema_version": 1,
+  "encounters": {
+    "flag_18000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31150800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31030800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044350800": {
+      "active_flag": 1044352806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_44_35_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_31000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30040800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31170800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30110800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_18000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1043360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1045390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042370800": {
+      "active_flag": 1042372806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_42_37_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1043370800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042380800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042380850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1043330800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042330800": {
+      "active_flag": 1042332806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_42_33_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1044320850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044320800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1043300800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "margit": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "godrick": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31040800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30060800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31060800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30050850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30030800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_10010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1034450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1035420800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1034480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1039440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1033430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038410800": {
+      "active_flag": 1038412806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_38_41_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1033450800": {
+      "active_flag": 1033452806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_33_45_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1036500800": {
+      "active_flag": 1036502806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_36_50_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1039430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1036480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037420800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1036450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037460800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1035500800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_39200800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1034420800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1033420800": {
+      "active_flag": 1033422806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_33_42_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_14000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_14000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32070800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30140800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31210800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30150800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32080800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31110800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048370800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049380800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1047400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049370800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049370850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "radahn": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31200800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31100800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30160800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_34130800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1052410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049390850": {
+      "active_flag": 1049392856,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_49_39_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1052410850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31190850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31190800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32040800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1040520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30080800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31180800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30120800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30070800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1040530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042550800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041500800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1039500800": {
+      "active_flag": 1039502806,
+      "validation": "user_tested",
+      "evidence": {
+        "entry": "four_run_trace",
+        "death": "trace_and_user_test",
+        "reset": "four_run_trace",
+        "victory": "user_reported"
+      },
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_39_50_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1039510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1039540800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_34120800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30130800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30100800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1045520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1043530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31090800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31070800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30090800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1035530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1036540800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037540810": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_16000860": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_16000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_16000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_35000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_34140850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_35000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30170800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30180800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31220800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1254560800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1052560800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1053560800": {
+      "active_flag": 1053562806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_53_56_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1050570800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051570800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1052520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_13000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_13000830": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_13000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30200800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30190800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32110800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31120800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1050560800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1050570850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1248550800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048570800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_15000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_15000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12020830": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12080800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12020850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12090800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12010850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12040800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12030390": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12030800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12030850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11050850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_19000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2045440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_43000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_41020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_41000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_20000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2048440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2044470800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049430850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2047450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2051440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_25000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2051450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_40000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_40010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_41010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_21000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_21010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046460800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2044450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2048380850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046380800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_22000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2047390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2052400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_43010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2054390850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2054390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2050470800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2050480860": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2052480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2050480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2052430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_28000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_20010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    }
+  }
+}

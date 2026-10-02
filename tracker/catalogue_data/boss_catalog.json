@@ -1,0 +1,6763 @@
+[
+  {
+    "id": "flag_18000850",
+    "name": "Soldat de Godrick",
+    "flag_id": 18000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Soldat de Godrick",
+      "en": "Soldier of Godrick"
+    },
+    "source_names": {
+      "fr": "Soldat de Godrick",
+      "en": "Soldier of Godrick"
+    },
+    "places": {
+      "fr": "Cimetière abandonné",
+      "en": "Stranded Graveyard"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1042360800",
+    "name": "Sentinelle de l'Arbre",
+    "flag_id": 1042360800,
+    "content": "base_game",
+    "names": {
+      "fr": "Sentinelle de l'Arbre",
+      "en": "Tree Sentinel"
+    },
+    "source_names": {
+      "fr": "Sentinelle de l'Arbre",
+      "en": "Tree Sentinel"
+    },
+    "places": {
+      "fr": "Église d'Elleh",
+      "en": "Church of Elleh"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31150800",
+    "name": "Chef semi-humain(x2)",
+    "flag_id": 31150800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chef semi-humain(x2)",
+      "en": "Demi-Human Chief(x2)"
+    },
+    "source_names": {
+      "fr": "Chef semi-humain(x2)",
+      "en": "Demi-Human Chief(x2)"
+    },
+    "places": {
+      "fr": "Grotte marine",
+      "en": "Coastal Cave"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30020800",
+    "name": "Veilleur de l'Arbre-Monde",
+    "flag_id": 30020800,
+    "content": "base_game",
+    "names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "source_names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "places": {
+      "fr": "Catacombes orageuses",
+      "en": "Stormfoot Catacombs"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31030800",
+    "name": "Homme-bête de Farum Azula",
+    "flag_id": 31030800,
+    "content": "base_game",
+    "names": {
+      "fr": "Homme-bête de Farum Azula",
+      "en": "Beastman of Farum Azula"
+    },
+    "source_names": {
+      "fr": "Homme-bête de Farum Azula",
+      "en": "Beastman of Farum Azula"
+    },
+    "places": {
+      "fr": "Grotte du bosquet",
+      "en": "Groveside Cave"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32010800",
+    "name": "Troll fouisseur",
+    "flag_id": 32010800,
+    "content": "base_game",
+    "names": {
+      "fr": "Troll fouisseur",
+      "en": "Stonedigger Troll"
+    },
+    "source_names": {
+      "fr": "Troll fouisseur",
+      "en": "Stonedigger Troll"
+    },
+    "places": {
+      "fr": "Galeries de Nécrolimbe",
+      "en": "Limgrave Tunnels"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1044360800",
+    "name": "Tête de citrouille démente",
+    "flag_id": 1044360800,
+    "content": "base_game",
+    "names": {
+      "fr": "Tête de citrouille démente",
+      "en": "Mad Pumpkin Head"
+    },
+    "source_names": {
+      "fr": "Tête de citrouille démente",
+      "en": "Mad Pumpkin Head"
+    },
+    "places": {
+      "fr": "Relais en ruines",
+      "en": "Waypoint Ruins"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1044350800",
+    "name": "Darriwil, Chevalier-limier",
+    "flag_id": 1044350800,
+    "content": "base_game",
+    "names": {
+      "fr": "Darriwil, Chevalier-limier",
+      "en": "Bloodhound Knight Darriwil"
+    },
+    "source_names": {
+      "fr": "Darriwil, Chevalier-limier",
+      "en": "Bloodhound Knight Darriwil"
+    },
+    "places": {
+      "fr": "Geôle éternelle du limier esseulé",
+      "en": "Forlorn Hound Evergaol"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31000800",
+    "name": "Pat",
+    "flag_id": 31000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Pat",
+      "en": "Patches"
+    },
+    "source_names": {
+      "fr": "Pat",
+      "en": "Patches"
+    },
+    "places": {
+      "fr": "Cavernes des eaux noires",
+      "en": "Murkwater Cave"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30040800",
+    "name": "Duelliste gardien du tombeau",
+    "flag_id": 30040800,
+    "content": "base_game",
+    "names": {
+      "fr": "Duelliste gardien du tombeau",
+      "en": "Grave Warden Duelist"
+    },
+    "source_names": {
+      "fr": "Duelliste gardien du tombeau",
+      "en": "Grave Warden Duelist"
+    },
+    "places": {
+      "fr": "Catacombes des eaux noires",
+      "en": "Murkwater Catacombs"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31170800",
+    "name": "Golem gardien",
+    "flag_id": 31170800,
+    "content": "base_game",
+    "names": {
+      "fr": "Golem gardien",
+      "en": "Guardian Golem"
+    },
+    "source_names": {
+      "fr": "Golem gardien",
+      "en": "Guardian Golem"
+    },
+    "places": {
+      "fr": "Cavernes de la Chaussée royale",
+      "en": "Highroad Cave"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30110800",
+    "name": "Assassin des Couteaux noirs",
+    "flag_id": 30110800,
+    "content": "base_game",
+    "names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "source_names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "places": {
+      "fr": "Catacombes funestes",
+      "en": "Deathtouched Catacombs"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_18000800",
+    "name": "Esprit d'arbre ulcéreux",
+    "flag_id": 18000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Esprit d'arbre ulcéreux",
+      "en": "Ulcerated Tree Spirit"
+    },
+    "source_names": {
+      "fr": "Esprit d'arbre ulcéreux",
+      "en": "Ulcerated Tree Spirit"
+    },
+    "places": {
+      "fr": "Tombe des héros des confins",
+      "en": "Fringefolk Hero's Grave"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1043360800",
+    "name": "Agheel le dragon volant",
+    "flag_id": 1043360800,
+    "content": "base_game",
+    "names": {
+      "fr": "Agheel le dragon volant",
+      "en": "Flying Dragon Agheel"
+    },
+    "source_names": {
+      "fr": "Agheel le dragon volant",
+      "en": "Flying Dragon Agheel"
+    },
+    "places": {
+      "fr": "Lac d'Agheel",
+      "en": "Agheel Lake"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1045390800",
+    "name": "Nocher diaphane",
+    "flag_id": 1045390800,
+    "content": "base_game",
+    "names": {
+      "fr": "Nocher diaphane",
+      "en": "Tibia Mariner"
+    },
+    "source_names": {
+      "fr": "Nocher diaphane",
+      "en": "Tibia Mariner"
+    },
+    "places": {
+      "fr": "Village des Eaux nécromantes",
+      "en": "Summonwater Village"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1042370800",
+    "name": "Chevalier du Creuset",
+    "flag_id": 1042370800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chevalier du Creuset",
+      "en": "Crucible Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier du Creuset",
+      "en": "Crucible Knight"
+    },
+    "places": {
+      "fr": "Geôle éternelle de Valorage",
+      "en": "Stormhill Evergaol"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1043370800",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1043370800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1042380800",
+    "name": "Rapace funeste",
+    "flag_id": 1042380800,
+    "content": "base_game",
+    "names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "source_names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1042380850",
+    "name": "Chasseur de perles cinéraires",
+    "flag_id": 1042380850,
+    "content": "base_game",
+    "names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "source_names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "places": {
+      "fr": "Cabane du maître de guerre",
+      "en": "Warmaster's Shack"
+    },
+    "regions": {
+      "fr": "Nécrolimbe",
+      "en": "Limgrave"
+    },
+    "region_codes": [
+      1800,
+      3002,
+      3004,
+      3011,
+      3100,
+      3103,
+      3115,
+      3117,
+      3201,
+      3410,
+      6100,
+      6101
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31010800",
+    "name": "Ours runique",
+    "flag_id": 31010800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ours runique",
+      "en": "Runebear"
+    },
+    "source_names": {
+      "fr": "Ours runique",
+      "en": "Runebear"
+    },
+    "places": {
+      "fr": "Cavernes insondables",
+      "en": "Earthbore Cave"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32000800",
+    "name": "Chimère écailleuse",
+    "flag_id": 32000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chimère écailleuse",
+      "en": "Scaly Misbegotten"
+    },
+    "source_names": {
+      "fr": "Chimère écailleuse",
+      "en": "Scaly Misbegotten"
+    },
+    "places": {
+      "fr": "Galerie de Vent-Hurlant",
+      "en": "Morne Tunnel"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30010800",
+    "name": "Veilleur de l'Arbre-Monde",
+    "flag_id": 30010800,
+    "content": "base_game",
+    "names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "source_names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "places": {
+      "fr": "Catacombes de l'Empaleur",
+      "en": "Impaler's Catacombs"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30000800",
+    "name": "Ombre du cimetière",
+    "flag_id": 30000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ombre du cimetière",
+      "en": "Cemetery Shade"
+    },
+    "source_names": {
+      "fr": "Ombre du cimetière",
+      "en": "Cemetery Shade"
+    },
+    "places": {
+      "fr": "Catacombes du Val-aux-Tombes",
+      "en": "Tombsward Catacombs"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31020800",
+    "name": "Miranda la Fleur galeuse",
+    "flag_id": 31020800,
+    "content": "base_game",
+    "names": {
+      "fr": "Miranda la Fleur galeuse",
+      "en": "Miranda the Blighted Bloom"
+    },
+    "source_names": {
+      "fr": "Miranda la Fleur galeuse",
+      "en": "Miranda the Blighted Bloom"
+    },
+    "places": {
+      "fr": "Cavernes du Val-aux-Tombes",
+      "en": "Tombsward Cave"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1043330800",
+    "name": "Avatar de l'Arbre-Monde",
+    "flag_id": 1043330800,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1042330800",
+    "name": "Ancien héros de Zamor",
+    "flag_id": 1042330800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ancien héros de Zamor",
+      "en": "Ancient Hero of Zamor"
+    },
+    "source_names": {
+      "fr": "Ancien héros de Zamor",
+      "en": "Ancient Hero of Zamor"
+    },
+    "places": {
+      "fr": "Geôle éternelle des lamentations",
+      "en": "Weeping Evergaol"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1044320850",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1044320850,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "Rempart du Château de Vent-Hurlant",
+      "en": "Castle Morne Rampart"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1044320800",
+    "name": "Rapace funeste",
+    "flag_id": 1044320800,
+    "content": "base_game",
+    "names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "source_names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1043300800",
+    "name": "Chimère léonine",
+    "flag_id": 1043300800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chimère léonine",
+      "en": "Leonine Misbegotten"
+    },
+    "source_names": {
+      "fr": "Chimère léonine",
+      "en": "Leonine Misbegotten"
+    },
+    "places": {
+      "fr": "Tombe de Vent-Hurlant",
+      "en": "Morne Moangrave"
+    },
+    "regions": {
+      "fr": "Péninsule larmoyante",
+      "en": "Weeping Peninsula"
+    },
+    "region_codes": [
+      3000,
+      3001,
+      3101,
+      3102,
+      3200,
+      6102
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "margit",
+    "name": "Margit",
+    "flag_id": 10000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Margit",
+      "en": "Margit, the Fell Omen"
+    },
+    "source_names": {
+      "fr": "Margit le Déchu",
+      "en": "Margit, the Fell Omen"
+    },
+    "places": {
+      "fr": "Château de Voilorage",
+      "en": "Stormveil Castle"
+    },
+    "regions": {
+      "fr": "Château de Voilorage",
+      "en": "Stormveil Castle"
+    },
+    "region_codes": [
+      1000
+    ],
+    "remembrance": null,
+    "individually_tested": true
+  },
+  {
+    "id": "godrick",
+    "name": "Godrick",
+    "flag_id": 10000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Godrick",
+      "en": "Godrick the Grafted"
+    },
+    "source_names": {
+      "fr": "Godrick le Greffé",
+      "en": "Godrick the Grafted"
+    },
+    "places": {
+      "fr": "Château de Voilorage",
+      "en": "Stormveil Castle"
+    },
+    "regions": {
+      "fr": "Château de Voilorage",
+      "en": "Stormveil Castle"
+    },
+    "region_codes": [
+      1000
+    ],
+    "remembrance": 1,
+    "individually_tested": true
+  },
+  {
+    "id": "flag_31040800",
+    "name": "Chevalier de la Noble putréfaction",
+    "flag_id": 31040800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chevalier de la Noble putréfaction",
+      "en": "Cleanrot Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier de la Noble putréfaction",
+      "en": "Cleanrot Knight"
+    },
+    "places": {
+      "fr": "Grotte aux eaux stagnantes",
+      "en": "Stillwater Cave"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31050800",
+    "name": "Chevalier-limier",
+    "flag_id": 31050800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chevalier-limier",
+      "en": "Bloodhound Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier-limier",
+      "en": "Bloodhound Knight"
+    },
+    "places": {
+      "fr": "Grotte cristalline du lac",
+      "en": "Lakeside Crystal Cave"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30060800",
+    "name": "Veilleur de l'Arbre-Monde",
+    "flag_id": 30060800,
+    "content": "base_game",
+    "names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "source_names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "places": {
+      "fr": "Catacombes au pied des falaises",
+      "en": "Cliffbottom Catacombs"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31060800",
+    "name": "Sorcier cristalien & Lancier cristalien",
+    "flag_id": 31060800,
+    "content": "base_game",
+    "names": {
+      "fr": "Sorcier cristalien & Lancier cristalien",
+      "en": "Crystalian (Staff) & Crystalian (Spear)"
+    },
+    "source_names": {
+      "fr": "Sorcier cristalien & Lancier cristalien",
+      "en": "Crystalian (Staff) & Crystalian (Spear)"
+    },
+    "places": {
+      "fr": "Grotte cristalline de l'Académie",
+      "en": "Academy Crystal Cave"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32020800",
+    "name": "Danseur cristalien",
+    "flag_id": 32020800,
+    "content": "base_game",
+    "names": {
+      "fr": "Danseur cristalien",
+      "en": "Crystalian (Ringblade)"
+    },
+    "source_names": {
+      "fr": "Danseur cristalien",
+      "en": "Crystalian (Ringblade)"
+    },
+    "places": {
+      "fr": "Galerie cristalline de Raya Lucaria",
+      "en": "Raya Lucaria Crystal Tunnel"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30050800",
+    "name": "Ombre du cimetière",
+    "flag_id": 30050800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ombre du cimetière",
+      "en": "Cemetery Shade"
+    },
+    "source_names": {
+      "fr": "Ombre du cimetière",
+      "en": "Cemetery Shade"
+    },
+    "places": {
+      "fr": "Catacombes des Couteaux noirs",
+      "en": "Black Knife Catacombs"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30050850",
+    "name": "Assassin des Couteaux noirs",
+    "flag_id": 30050850,
+    "content": "base_game",
+    "names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "source_names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "places": {
+      "fr": "Catacombes des Couteaux noirs",
+      "en": "Black Knife Catacombs"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30030800",
+    "name": "Escargot mande-esprit",
+    "flag_id": 30030800,
+    "content": "base_game",
+    "names": {
+      "fr": "Escargot mande-esprit",
+      "en": "Spiritcaller Snail"
+    },
+    "source_names": {
+      "fr": "Escargot mande-esprit",
+      "en": "Spiritcaller Snail"
+    },
+    "places": {
+      "fr": "Catacombes de l'impasse",
+      "en": "Road's End Catacombs"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_10010800",
+    "name": "Rejeton greffé",
+    "flag_id": 10010800,
+    "content": "base_game",
+    "names": {
+      "fr": "Rejeton greffé",
+      "en": "Grafted Scion"
+    },
+    "source_names": {
+      "fr": "Rejeton greffé",
+      "en": "Grafted Scion"
+    },
+    "places": {
+      "fr": "Chapelle de l'anticipation",
+      "en": "Chapel of Anticipation"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1034450800",
+    "name": "Smarag, dragon de pierre d'éclat",
+    "flag_id": 1034450800,
+    "content": "base_game",
+    "names": {
+      "fr": "Smarag, dragon de pierre d'éclat",
+      "en": "Glintstone Dragon Smarag"
+    },
+    "source_names": {
+      "fr": "Smarag, dragon de pierre d'éclat",
+      "en": "Glintstone Dragon Smarag"
+    },
+    "places": {
+      "fr": "Quartier du temple",
+      "en": "Temple Quarter"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1035420800",
+    "name": "Tueur de Réprouvés",
+    "flag_id": 1035420800,
+    "content": "base_game",
+    "names": {
+      "fr": "Tueur de Réprouvés",
+      "en": "Omenkiller"
+    },
+    "source_names": {
+      "fr": "Tueur de Réprouvés",
+      "en": "Omenkiller"
+    },
+    "places": {
+      "fr": "Village des Albinauriques",
+      "en": "Village of the Albinaurics"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1034480800",
+    "name": "Spectre royal",
+    "flag_id": 1034480800,
+    "content": "base_game",
+    "names": {
+      "fr": "Spectre royal",
+      "en": "Royal Revenant"
+    },
+    "source_names": {
+      "fr": "Spectre royal",
+      "en": "Royal Revenant"
+    },
+    "places": {
+      "fr": "Ruines du domaine royal",
+      "en": "Kingsrealm Ruins"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1039440800",
+    "name": "Nocher diaphane",
+    "flag_id": 1039440800,
+    "content": "base_game",
+    "names": {
+      "fr": "Nocher diaphane",
+      "en": "Tibia Mariner"
+    },
+    "source_names": {
+      "fr": "Nocher diaphane",
+      "en": "Tibia Mariner"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1033430800",
+    "name": "Avatar de l'Arbre-Monde",
+    "flag_id": 1033430800,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "places": {
+      "fr": "Tour du prosélyte",
+      "en": "Converted Tower"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1038480800",
+    "name": "Avatar de l'Arbre-Monde",
+    "flag_id": 1038480800,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "places": {
+      "fr": "Enceinte du Mausolée",
+      "en": "Mausoleum Compound"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1038410800",
+    "name": "Adan le Voleur du feu",
+    "flag_id": 1038410800,
+    "content": "base_game",
+    "names": {
+      "fr": "Adan le Voleur du feu",
+      "en": "Adan, Thief of Fire"
+    },
+    "source_names": {
+      "fr": "Adan le Voleur du feu",
+      "en": "Adan, Thief of Fire"
+    },
+    "places": {
+      "fr": "Geôle éternelle du scélérat",
+      "en": "Malefactor's Evergaol"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1033450800",
+    "name": "Bols, chevalier de Caria",
+    "flag_id": 1033450800,
+    "content": "base_game",
+    "names": {
+      "fr": "Bols, chevalier de Caria",
+      "en": "Bols, Carian Knight"
+    },
+    "source_names": {
+      "fr": "Bols, chevalier de Caria",
+      "en": "Bols, Carian Knight"
+    },
+    "places": {
+      "fr": "Geôle éternelle du Coucou",
+      "en": "Cuckoo's Evergaol"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1036500800",
+    "name": "Seigneur d'onyx",
+    "flag_id": 1036500800,
+    "content": "base_game",
+    "names": {
+      "fr": "Seigneur d'onyx",
+      "en": "Onyx Lord"
+    },
+    "source_names": {
+      "fr": "Seigneur d'onyx",
+      "en": "Onyx Lord"
+    },
+    "places": {
+      "fr": "Geôle éternelle de la tombe royale",
+      "en": "Royal Grave Evergaol"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1039430800",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1039430800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "Pont du village",
+      "en": "Gate Town Bridge"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1036480800",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1036480800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "Église martiale",
+      "en": "Bellum Church"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1037420800",
+    "name": "Rapace funeste",
+    "flag_id": 1037420800,
+    "content": "base_game",
+    "names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "source_names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "places": {
+      "fr": "Île panoramique",
+      "en": "Scenic Isle"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1036450800",
+    "name": "Volatile funèbre",
+    "flag_id": 1036450800,
+    "content": "base_game",
+    "names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "source_names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "places": {
+      "fr": "Porte nord de la ville",
+      "en": "Gate Town North"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1037460800",
+    "name": "Chasseur de perles cinéraires",
+    "flag_id": 1037460800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "source_names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "places": {
+      "fr": "Église des vœux",
+      "en": "Church of Vows"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1035500800",
+    "name": "Loretta, chevaleresse royale",
+    "flag_id": 1035500800,
+    "content": "base_game",
+    "names": {
+      "fr": "Loretta, chevaleresse royale",
+      "en": "Royal Knight Loretta"
+    },
+    "source_names": {
+      "fr": "Loretta, chevaleresse royale",
+      "en": "Royal Knight Loretta"
+    },
+    "places": {
+      "fr": "Manoir de Caria",
+      "en": "Caria Manor"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_39200800",
+    "name": "Makar le Dragon du magma",
+    "flag_id": 39200800,
+    "content": "base_game",
+    "names": {
+      "fr": "Makar le Dragon du magma",
+      "en": "Magma Wyrm Makar"
+    },
+    "source_names": {
+      "fr": "Makar le Dragon du magma",
+      "en": "Magma Wyrm Makar"
+    },
+    "places": {
+      "fr": "Ruines des falaises",
+      "en": "Ruin-Strewn Precipice"
+    },
+    "regions": {
+      "fr": "Liurnia, contrée lacustre",
+      "en": "Liurnia of the Lakes"
+    },
+    "region_codes": [
+      3003,
+      3005,
+      3006,
+      3104,
+      3105,
+      3106,
+      3202,
+      3411,
+      3900,
+      3920,
+      6200,
+      6201
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1034420800",
+    "name": "Adula, dragon de pierre d'éclat",
+    "flag_id": 1034420800,
+    "content": "base_game",
+    "names": {
+      "fr": "Adula, dragon de pierre d'éclat",
+      "en": "Glintstone Dragon Adula"
+    },
+    "source_names": {
+      "fr": "Adula, dragon de pierre d'éclat",
+      "en": "Glintstone Dragon Adula"
+    },
+    "places": {
+      "fr": "Autel lunaire",
+      "en": "Moonlight Altar"
+    },
+    "regions": {
+      "fr": "Autel lunaire",
+      "en": "Moonlight Altar"
+    },
+    "region_codes": [
+      6202
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1033420800",
+    "name": "Alecto, meneuse des Couteaux noirs",
+    "flag_id": 1033420800,
+    "content": "base_game",
+    "names": {
+      "fr": "Alecto, meneuse des Couteaux noirs",
+      "en": "Alecto, Black Knife Ringleader"
+    },
+    "source_names": {
+      "fr": "Alecto, meneuse des Couteaux noirs",
+      "en": "Alecto, Black Knife Ringleader"
+    },
+    "places": {
+      "fr": "Geôle éternelle de la meneuse des Couteaux noirs",
+      "en": "Ringleader's Evergaol"
+    },
+    "regions": {
+      "fr": "Autel lunaire",
+      "en": "Moonlight Altar"
+    },
+    "region_codes": [
+      6202
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_14000850",
+    "name": "Loup cramoisi de Radagon",
+    "flag_id": 14000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Loup cramoisi de Radagon",
+      "en": "Red Wolf of Radagon"
+    },
+    "source_names": {
+      "fr": "Loup cramoisi de Radagon",
+      "en": "Red Wolf of Radagon"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Académie de Raya Lucaria",
+      "en": "Academy of Raya Lucaria"
+    },
+    "region_codes": [
+      1400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_14000800",
+    "name": "Rennala, reine de la pleine lune",
+    "flag_id": 14000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Rennala, reine de la pleine lune",
+      "en": "Rennala, Queen of the Full Moon"
+    },
+    "source_names": {
+      "fr": "Rennala, reine de la pleine lune",
+      "en": "Rennala, Queen of the Full Moon"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Académie de Raya Lucaria",
+      "en": "Academy of Raya Lucaria"
+    },
+    "region_codes": [
+      1400
+    ],
+    "remembrance": 2,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32070800",
+    "name": "Dragon du magma",
+    "flag_id": 32070800,
+    "content": "base_game",
+    "names": {
+      "fr": "Dragon du magma",
+      "en": "Magma Wyrm"
+    },
+    "source_names": {
+      "fr": "Dragon du magma",
+      "en": "Magma Wyrm"
+    },
+    "places": {
+      "fr": "Galerie de Gael",
+      "en": "Gael Tunnel"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30140800",
+    "name": "Veilleur épéiste de l'Arbre-Monde & Veilleur sorcier de l'Arbre-Monde",
+    "flag_id": 30140800,
+    "content": "base_game",
+    "names": {
+      "fr": "Veilleur épéiste de l'Arbre-Monde & Veilleur sorcier de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog (Sword) & Erdtree Burial Watchdog (Scepter)"
+    },
+    "source_names": {
+      "fr": "Veilleur épéiste de l'Arbre-Monde & Veilleur sorcier de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog (Sword) & Erdtree Burial Watchdog (Scepter)"
+    },
+    "places": {
+      "fr": "Catacombes de l'Arbre-Monde mineur",
+      "en": "Minor Erdtree Catacombs"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31210800",
+    "name": "Duelliste frénétique",
+    "flag_id": 31210800,
+    "content": "base_game",
+    "names": {
+      "fr": "Duelliste frénétique",
+      "en": "Frenzied Duelist"
+    },
+    "source_names": {
+      "fr": "Duelliste frénétique",
+      "en": "Frenzied Duelist"
+    },
+    "places": {
+      "fr": "Cavernes aux geôles",
+      "en": "Gaol Cave"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30150800",
+    "name": "Ombre du cimetière",
+    "flag_id": 30150800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ombre du cimetière",
+      "en": "Cemetery Shade"
+    },
+    "source_names": {
+      "fr": "Ombre du cimetière",
+      "en": "Cemetery Shade"
+    },
+    "places": {
+      "fr": "Catacombes de Caelid",
+      "en": "Caelid Catacombs"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32080800",
+    "name": "Créature stellaire",
+    "flag_id": 32080800,
+    "content": "base_game",
+    "names": {
+      "fr": "Créature stellaire",
+      "en": "Fallingstar Beast"
+    },
+    "source_names": {
+      "fr": "Créature stellaire",
+      "en": "Fallingstar Beast"
+    },
+    "places": {
+      "fr": "Galerie cristalline de Sellia",
+      "en": "Sellia Crystal Tunnel"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31110800",
+    "name": "Danseur cristalien putride & Lancier cristalien putride & Sorcier cristalien putride",
+    "flag_id": 31110800,
+    "content": "base_game",
+    "names": {
+      "fr": "Danseur cristalien putride & Lancier cristalien putride & Sorcier cristalien putride",
+      "en": "Putrid Crystalian (Ringblade) & Putrid Crystalian (Spear) & Putrid Crystalian (Staff)"
+    },
+    "source_names": {
+      "fr": "Danseur cristalien putride & Lancier cristalien putride & Sorcier cristalien putride",
+      "en": "Putrid Crystalian (Ringblade) & Putrid Crystalian (Spear) & Putrid Crystalian (Staff)"
+    },
+    "places": {
+      "fr": "Antre de Sellia",
+      "en": "Sellia Hideaway"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1048400800",
+    "name": "Tête de citrouille démente au marteau & Tête de citrouille démente au fléau d'armes",
+    "flag_id": 1048400800,
+    "content": "base_game",
+    "names": {
+      "fr": "Tête de citrouille démente au marteau & Tête de citrouille démente au fléau d'armes",
+      "en": "Mad Pumpkin Head (Hammer) & Mad Pumpkin Head (Flail)"
+    },
+    "source_names": {
+      "fr": "Tête de citrouille démente au marteau & Tête de citrouille démente au fléau d'armes",
+      "en": "Mad Pumpkin Head (Hammer) & Mad Pumpkin Head (Flail)"
+    },
+    "places": {
+      "fr": "Ruines de Caelem",
+      "en": "Caelem Ruins"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1048370800",
+    "name": "Ekzykes le Putréfié",
+    "flag_id": 1048370800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ekzykes le Putréfié",
+      "en": "Decaying Ekzykes"
+    },
+    "source_names": {
+      "fr": "Ekzykes le Putréfié",
+      "en": "Decaying Ekzykes"
+    },
+    "places": {
+      "fr": "Église de la putréfaction",
+      "en": "Church of the Plague"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1049390800",
+    "name": "Moine nokrien & Épéiste nokrienne",
+    "flag_id": 1049390800,
+    "content": "base_game",
+    "names": {
+      "fr": "Moine nokrien & Épéiste nokrienne",
+      "en": "Nox Monk & Nox Swordstress"
+    },
+    "source_names": {
+      "fr": "Moine nokrien & Épéiste nokrienne",
+      "en": "Nox Monk & Nox Swordstress"
+    },
+    "places": {
+      "fr": "Sellia, cité de la sorcellerie",
+      "en": "Sellia, Town of Sorcery"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1049380800",
+    "name": "Commandant O'Neil",
+    "flag_id": 1049380800,
+    "content": "base_game",
+    "names": {
+      "fr": "Commandant O'Neil",
+      "en": "Commander O'Neil"
+    },
+    "source_names": {
+      "fr": "Commandant O'Neil",
+      "en": "Commander O'Neil"
+    },
+    "places": {
+      "fr": "Marais d'Ivoine",
+      "en": "Swamp of Aeonia"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1047400800",
+    "name": "Avatar putride",
+    "flag_id": 1047400800,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar putride",
+      "en": "Putrid Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar putride",
+      "en": "Putrid Avatar"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1049370800",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1049370800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "Sud de la chaussée de Caelid",
+      "en": "Caelid Highway South"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1049370850",
+    "name": "Volatile funèbre",
+    "flag_id": 1049370850,
+    "content": "base_game",
+    "names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "source_names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "places": {
+      "fr": "Rive sud du marais d'Ivoine",
+      "en": "Southern Aeonia Swamp Bank"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1051360800",
+    "name": "Chevalier du Creuset & Chimère léonine",
+    "flag_id": 1051360800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chevalier du Creuset & Chimère léonine",
+      "en": "Crucible Knight & Misbegotten Warrior"
+    },
+    "source_names": {
+      "fr": "Chevalier du Creuset & Chimère léonine",
+      "en": "Crucible Knight & Misbegotten Warrior"
+    },
+    "places": {
+      "fr": "Château du Lion rouge",
+      "en": "Redmane Castle"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "radahn",
+    "name": "Radahn",
+    "flag_id": 1252380800,
+    "content": "base_game",
+    "names": {
+      "fr": "Radahn",
+      "en": "Starscourge Radahn"
+    },
+    "source_names": {
+      "fr": "Radahn le Fléau des astres",
+      "en": "Starscourge Radahn"
+    },
+    "places": {
+      "fr": "Dunes gémissantes",
+      "en": "Wailing Dunes"
+    },
+    "regions": {
+      "fr": "Caelid",
+      "en": "Caelid"
+    },
+    "region_codes": [
+      3014,
+      3015,
+      3111,
+      3121,
+      3207,
+      3208,
+      6400
+    ],
+    "remembrance": 3,
+    "individually_tested": true
+  },
+  {
+    "id": "flag_31200800",
+    "name": "Chevalier lancier de la Noble putréfaction & Chevalier faucheur de la Noble putréfaction",
+    "flag_id": 31200800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chevalier lancier de la Noble putréfaction & Chevalier faucheur de la Noble putréfaction",
+      "en": "Cleanrot Knight (Spear) & Cleanrot Knight (Sickle)"
+    },
+    "source_names": {
+      "fr": "Chevalier lancier de la Noble putréfaction & Chevalier faucheur de la Noble putréfaction",
+      "en": "Cleanrot Knight (Spear) & Cleanrot Knight (Sickle)"
+    },
+    "places": {
+      "fr": "Grotte désertée",
+      "en": "Abandoned Cave"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31100800",
+    "name": "Homme-bête guerrier de Farum Azula & Homme-bête aux couteaux de Farum Azula",
+    "flag_id": 31100800,
+    "content": "base_game",
+    "names": {
+      "fr": "Homme-bête guerrier de Farum Azula & Homme-bête aux couteaux de Farum Azula",
+      "en": "Beastman of Farum Azula (Cleaver) & Beastman of Farum Azula (Throwing Knife)"
+    },
+    "source_names": {
+      "fr": "Homme-bête guerrier de Farum Azula & Homme-bête aux couteaux de Farum Azula",
+      "en": "Beastman of Farum Azula (Cleaver) & Beastman of Farum Azula (Throwing Knife)"
+    },
+    "places": {
+      "fr": "Cavernes du Tertre draconique",
+      "en": "Dragonbarrow Cave"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30160800",
+    "name": "Esprit d'arbre putride",
+    "flag_id": 30160800,
+    "content": "base_game",
+    "names": {
+      "fr": "Esprit d'arbre putride",
+      "en": "Putrid Tree Spirit"
+    },
+    "source_names": {
+      "fr": "Esprit d'arbre putride",
+      "en": "Putrid Tree Spirit"
+    },
+    "places": {
+      "fr": "Catacombes des défunts valeureux",
+      "en": "War-Dead Catacombs"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_34130800",
+    "name": "Apôtre sanctechair",
+    "flag_id": 34130800,
+    "content": "base_game",
+    "names": {
+      "fr": "Apôtre sanctechair",
+      "en": "Godskin Apostle"
+    },
+    "source_names": {
+      "fr": "Apôtre sanctechair",
+      "en": "Godskin Apostle"
+    },
+    "places": {
+      "fr": "Tour divine de Caelid",
+      "en": "Divine Tower of Caelid"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1051430800",
+    "name": "Adepte de la Lame d'ébène",
+    "flag_id": 1051430800,
+    "content": "base_game",
+    "names": {
+      "fr": "Adepte de la Lame d'ébène",
+      "en": "Black Blade Kindred"
+    },
+    "source_names": {
+      "fr": "Adepte de la Lame d'ébène",
+      "en": "Black Blade Kindred"
+    },
+    "places": {
+      "fr": "Sanctuaire bestial",
+      "en": "Bestial Sanctum"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1052410800",
+    "name": "Greyll le Dragon volant",
+    "flag_id": 1052410800,
+    "content": "base_game",
+    "names": {
+      "fr": "Greyll le Dragon volant",
+      "en": "Flying Dragon Greyll"
+    },
+    "source_names": {
+      "fr": "Greyll le Dragon volant",
+      "en": "Flying Dragon Greyll"
+    },
+    "places": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1051400800",
+    "name": "Avatar putride",
+    "flag_id": 1051400800,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar putride",
+      "en": "Putrid Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar putride",
+      "en": "Putrid Avatar"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1049390850",
+    "name": "Mage de bataille Hugues",
+    "flag_id": 1049390850,
+    "content": "base_game",
+    "names": {
+      "fr": "Mage de bataille Hugues",
+      "en": "Battlemage Hugues"
+    },
+    "source_names": {
+      "fr": "Mage de bataille Hugues",
+      "en": "Battlemage Hugues"
+    },
+    "places": {
+      "fr": "Geôle éternelle de Sellia",
+      "en": "Sellia Evergaol"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1052410850",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1052410850,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "Tour de Lenne",
+      "en": "Lenne's Rise"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1048410800",
+    "name": "Chasseur de perles cinéraires",
+    "flag_id": 1048410800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "source_names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "places": {
+      "fr": "Cabane du marchand ascétique",
+      "en": "Isolated Merchant's Shack"
+    },
+    "regions": {
+      "fr": "Tertre draconique de Greyoll",
+      "en": "Greyoll's Dragonbarrow"
+    },
+    "region_codes": [
+      3016,
+      3110,
+      3120,
+      3413,
+      6402
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31190850",
+    "name": "Garris le Nécromancien",
+    "flag_id": 31190850,
+    "content": "base_game",
+    "names": {
+      "fr": "Garris le Nécromancien",
+      "en": "Necromancer Garris"
+    },
+    "source_names": {
+      "fr": "Garris le Nécromancien",
+      "en": "Necromancer Garris"
+    },
+    "places": {
+      "fr": "Cavernes du sage",
+      "en": "Sage's Cave"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31190800",
+    "name": "Assassin des Couteaux noirs",
+    "flag_id": 31190800,
+    "content": "base_game",
+    "names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "source_names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "places": {
+      "fr": "Cavernes du sage",
+      "en": "Sage's Cave"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32040800",
+    "name": "Troll fouisseur",
+    "flag_id": 32040800,
+    "content": "base_game",
+    "names": {
+      "fr": "Troll fouisseur",
+      "en": "Stonedigger Troll"
+    },
+    "source_names": {
+      "fr": "Troll fouisseur",
+      "en": "Stonedigger Troll"
+    },
+    "places": {
+      "fr": "Vieille galerie d'Altus",
+      "en": "Old Altus Tunnel"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32050800",
+    "name": "Lancier cristalien & Danseur cristalien",
+    "flag_id": 32050800,
+    "content": "base_game",
+    "names": {
+      "fr": "Lancier cristalien & Danseur cristalien",
+      "en": "Crystalian (Spear) & Crystalian (Ringblade)"
+    },
+    "source_names": {
+      "fr": "Lancier cristalien & Danseur cristalien",
+      "en": "Crystalian (Spear) & Crystalian (Ringblade)"
+    },
+    "places": {
+      "fr": "Galerie d'Altus",
+      "en": "Altus Tunnel"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1040520800",
+    "name": "Assassin des Couteaux noirs",
+    "flag_id": 1040520800,
+    "content": "base_game",
+    "names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "source_names": {
+      "fr": "Assassin des Couteaux noirs",
+      "en": "Black Knife Assassin"
+    },
+    "places": {
+      "fr": "Tombe du héros canonisé",
+      "en": "Sainted Hero's Grave"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30080800",
+    "name": "Ancien héros de Zamor",
+    "flag_id": 30080800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ancien héros de Zamor",
+      "en": "Ancient Hero of Zamor"
+    },
+    "source_names": {
+      "fr": "Ancien héros de Zamor",
+      "en": "Ancient Hero of Zamor"
+    },
+    "places": {
+      "fr": "Tombe du héros canonisé",
+      "en": "Sainted Hero's Grave"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31180800",
+    "name": "Tueur de Réprouvés & Miranda la Fleur galeuse",
+    "flag_id": 31180800,
+    "content": "base_game",
+    "names": {
+      "fr": "Tueur de Réprouvés & Miranda la Fleur galeuse",
+      "en": "Omenkiller & Miranda the Blighted Bloom"
+    },
+    "source_names": {
+      "fr": "Tueur de Réprouvés & Miranda la Fleur galeuse",
+      "en": "Omenkiller & Miranda the Blighted Bloom"
+    },
+    "places": {
+      "fr": "Grotte du Parfumeur",
+      "en": "Perfumer's Grotto"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30120800",
+    "name": "Parfumeuse Tricia & Chimère léonine",
+    "flag_id": 30120800,
+    "content": "base_game",
+    "names": {
+      "fr": "Parfumeuse Tricia & Chimère léonine",
+      "en": "Perfumer Tricia & Misbegotten Warrior"
+    },
+    "source_names": {
+      "fr": "Parfumeuse Tricia & Chimère léonine",
+      "en": "Perfumer Tricia & Misbegotten Warrior"
+    },
+    "places": {
+      "fr": "Catacombes des aberrations",
+      "en": "Unsightly Catacombs"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30070800",
+    "name": "Veilleur de l'Arbre-Monde",
+    "flag_id": 30070800,
+    "content": "base_game",
+    "names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "source_names": {
+      "fr": "Veilleur de l'Arbre-Monde",
+      "en": "Erdtree Burial Watchdog"
+    },
+    "places": {
+      "fr": "Catacombes de Wyndham",
+      "en": "Wyndham Catacombs"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1041520800",
+    "name": "Lansseax le Dragon ancien",
+    "flag_id": 1041520800,
+    "content": "base_game",
+    "names": {
+      "fr": "Lansseax le Dragon ancien",
+      "en": "Ancient Dragon Lansseax"
+    },
+    "source_names": {
+      "fr": "Lansseax le Dragon ancien",
+      "en": "Ancient Dragon Lansseax"
+    },
+    "places": {
+      "fr": "Chemin des remparts",
+      "en": "Rampartside Path"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1038510800",
+    "name": "Gilika, reine semi-humaine",
+    "flag_id": 1038510800,
+    "content": "base_game",
+    "names": {
+      "fr": "Gilika, reine semi-humaine",
+      "en": "Demi-Human Queen Gilika"
+    },
+    "source_names": {
+      "fr": "Gilika, reine semi-humaine",
+      "en": "Demi-Human Queen Gilika"
+    },
+    "places": {
+      "fr": "Ruines de Lux",
+      "en": "Lux Ruins"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1040530800",
+    "name": "Noble sanglant",
+    "flag_id": 1040530800,
+    "content": "base_game",
+    "names": {
+      "fr": "Noble sanglant",
+      "en": "Sanguine Noble"
+    },
+    "source_names": {
+      "fr": "Noble sanglant",
+      "en": "Sanguine Noble"
+    },
+    "places": {
+      "fr": "Ruines Grouille-Sang",
+      "en": "Writheblood Ruins"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1042550800",
+    "name": "Apôtre sanctechair",
+    "flag_id": 1042550800,
+    "content": "base_game",
+    "names": {
+      "fr": "Apôtre sanctechair",
+      "en": "Godskin Apostle"
+    },
+    "source_names": {
+      "fr": "Apôtre sanctechair",
+      "en": "Godskin Apostle"
+    },
+    "places": {
+      "fr": "Dominula, village aux moulins",
+      "en": "Dominula, Windmill Village"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1041500800",
+    "name": "Créature stellaire",
+    "flag_id": 1041500800,
+    "content": "base_game",
+    "names": {
+      "fr": "Créature stellaire",
+      "en": "Fallingstar Beast"
+    },
+    "source_names": {
+      "fr": "Créature stellaire",
+      "en": "Fallingstar Beast"
+    },
+    "places": {
+      "fr": "Cratère stellaire",
+      "en": "Starfall Crater"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1041510800",
+    "name": "Sentinelle de l'Arbre(x2)",
+    "flag_id": 1041510800,
+    "content": "base_game",
+    "names": {
+      "fr": "Sentinelle de l'Arbre(x2)",
+      "en": "Tree Sentinel(x2)"
+    },
+    "source_names": {
+      "fr": "Sentinelle de l'Arbre(x2)",
+      "en": "Tree Sentinel(x2)"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1038520800",
+    "name": "Nocher diaphane",
+    "flag_id": 1038520800,
+    "content": "base_game",
+    "names": {
+      "fr": "Nocher diaphane",
+      "en": "Tibia Mariner"
+    },
+    "source_names": {
+      "fr": "Nocher diaphane",
+      "en": "Tibia Mariner"
+    },
+    "places": {
+      "fr": "Ruines de Wyndham",
+      "en": "Wyndham Ruins"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1041530800",
+    "name": "Face de ver",
+    "flag_id": 1041530800,
+    "content": "base_game",
+    "names": {
+      "fr": "Face de ver",
+      "en": "Wormface"
+    },
+    "source_names": {
+      "fr": "Face de ver",
+      "en": "Wormface"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1039500800",
+    "name": "Godefroy le Greffé",
+    "flag_id": 1039500800,
+    "content": "base_game",
+    "names": {
+      "fr": "Godefroy le Greffé",
+      "en": "Godefroy the Grafted"
+    },
+    "source_names": {
+      "fr": "Godefroy le Greffé",
+      "en": "Godefroy the Grafted"
+    },
+    "places": {
+      "fr": "Geôle étern. de la lignée dorée",
+      "en": "Golden Lineage Evergaol"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1039510800",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1039510800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "Croisée de la chaussée d'Altus",
+      "en": "Altus Highway Junction"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1039540800",
+    "name": "Elemer du Roncier",
+    "flag_id": 1039540800,
+    "content": "base_game",
+    "names": {
+      "fr": "Elemer du Roncier",
+      "en": "Elemer of the Briar"
+    },
+    "source_names": {
+      "fr": "Elemer du Roncier",
+      "en": "Elemer of the Briar"
+    },
+    "places": {
+      "fr": "Le Bastiombre",
+      "en": "The Shaded Castle"
+    },
+    "regions": {
+      "fr": "Plateau Altus",
+      "en": "Altus Plateau"
+    },
+    "region_codes": [
+      3007,
+      3008,
+      3012,
+      3118,
+      3119,
+      3204,
+      3205,
+      6300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_34120800",
+    "name": "Seigneur d'onyx",
+    "flag_id": 34120800,
+    "content": "base_game",
+    "names": {
+      "fr": "Seigneur d'onyx",
+      "en": "Onyx Lord"
+    },
+    "source_names": {
+      "fr": "Seigneur d'onyx",
+      "en": "Onyx Lord"
+    },
+    "places": {
+      "fr": "Galerie scellée",
+      "en": "Sealed Tunnel"
+    },
+    "regions": {
+      "fr": "Faubourgs de la capitale",
+      "en": "Capital Outskirts"
+    },
+    "region_codes": [
+      3010,
+      3013,
+      3412,
+      6301
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30130800",
+    "name": "Duelliste gardien du tombeau",
+    "flag_id": 30130800,
+    "content": "base_game",
+    "names": {
+      "fr": "Duelliste gardien du tombeau",
+      "en": "Grave Warden Duelist"
+    },
+    "source_names": {
+      "fr": "Duelliste gardien du tombeau",
+      "en": "Grave Warden Duelist"
+    },
+    "places": {
+      "fr": "Tombe auxiliaire d'Auriza",
+      "en": "Auriza Side Tomb"
+    },
+    "regions": {
+      "fr": "Faubourgs de la capitale",
+      "en": "Capital Outskirts"
+    },
+    "region_codes": [
+      3010,
+      3013,
+      3412,
+      6301
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30100800",
+    "name": "Chevalier du Creuset & Ordovis, chevalier du Creuset",
+    "flag_id": 30100800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chevalier du Creuset & Ordovis, chevalier du Creuset",
+      "en": "Crucible Knight & Crucible Knight Ordovis"
+    },
+    "source_names": {
+      "fr": "Chevalier du Creuset & Ordovis, chevalier du Creuset",
+      "en": "Crucible Knight & Crucible Knight Ordovis"
+    },
+    "places": {
+      "fr": "Tombe des héros d'Auriza",
+      "en": "Auriza Hero's Grave"
+    },
+    "regions": {
+      "fr": "Faubourgs de la capitale",
+      "en": "Capital Outskirts"
+    },
+    "region_codes": [
+      3010,
+      3013,
+      3412,
+      6301
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1045520800",
+    "name": "Sentinelle draconique de l'Arbre",
+    "flag_id": 1045520800,
+    "content": "base_game",
+    "names": {
+      "fr": "Sentinelle draconique de l'Arbre",
+      "en": "Draconic Tree Sentinel"
+    },
+    "source_names": {
+      "fr": "Sentinelle draconique de l'Arbre",
+      "en": "Draconic Tree Sentinel"
+    },
+    "places": {
+      "fr": "Rempart de la capitale",
+      "en": "Capital Rampart"
+    },
+    "regions": {
+      "fr": "Faubourgs de la capitale",
+      "en": "Capital Outskirts"
+    },
+    "region_codes": [
+      3010,
+      3013,
+      3412,
+      6301
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1044530800",
+    "name": "Rapace funeste",
+    "flag_id": 1044530800,
+    "content": "base_game",
+    "names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "source_names": {
+      "fr": "Rapace funeste",
+      "en": "Deathbird"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Faubourgs de la capitale",
+      "en": "Capital Outskirts"
+    },
+    "region_codes": [
+      3010,
+      3013,
+      3412,
+      6301
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1043530800",
+    "name": "Chasseur de perles cinéraires",
+    "flag_id": 1043530800,
+    "content": "base_game",
+    "names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "source_names": {
+      "fr": "Chasseur de perles cinéraires",
+      "en": "Bell Bearing Hunter"
+    },
+    "places": {
+      "fr": "Cabane du marchand ermite",
+      "en": "Hermit Merchant's Shack"
+    },
+    "regions": {
+      "fr": "Faubourgs de la capitale",
+      "en": "Capital Outskirts"
+    },
+    "region_codes": [
+      3010,
+      3013,
+      3412,
+      6301
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31090800",
+    "name": "Margot, reine semi-humaine",
+    "flag_id": 31090800,
+    "content": "base_game",
+    "names": {
+      "fr": "Margot, reine semi-humaine",
+      "en": "Demi-Human Queen Margot"
+    },
+    "source_names": {
+      "fr": "Margot, reine semi-humaine",
+      "en": "Demi-Human Queen Margot"
+    },
+    "places": {
+      "fr": "Grotte volcanique",
+      "en": "Volcano Cave"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31070800",
+    "name": "Adepte de la putréfaction(x2)",
+    "flag_id": 31070800,
+    "content": "base_game",
+    "names": {
+      "fr": "Adepte de la putréfaction(x2)",
+      "en": "Kindred of Rot(x2)"
+    },
+    "source_names": {
+      "fr": "Adepte de la putréfaction(x2)",
+      "en": "Kindred of Rot(x2)"
+    },
+    "places": {
+      "fr": "Cavernes aux eaux ignées",
+      "en": "Seethewater Cave"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30090800",
+    "name": "Loup rouge du champion",
+    "flag_id": 30090800,
+    "content": "base_game",
+    "names": {
+      "fr": "Loup rouge du champion",
+      "en": "Red Wolf of the Champion"
+    },
+    "source_names": {
+      "fr": "Loup rouge du champion",
+      "en": "Red Wolf of the Champion"
+    },
+    "places": {
+      "fr": "Tombe des héros de Gelmir",
+      "en": "Gelmir Hero's Grave"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1035530800",
+    "name": "Dragon du magma",
+    "flag_id": 1035530800,
+    "content": "base_game",
+    "names": {
+      "fr": "Dragon du magma",
+      "en": "Magma Wyrm"
+    },
+    "source_names": {
+      "fr": "Dragon du magma",
+      "en": "Magma Wyrm"
+    },
+    "places": {
+      "fr": "Fort Laiedd",
+      "en": "Fort Laiedd"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1036540800",
+    "name": "Créature stellaire adulte",
+    "flag_id": 1036540800,
+    "content": "base_game",
+    "names": {
+      "fr": "Créature stellaire adulte",
+      "en": "Full-Grown Fallingstar Beast"
+    },
+    "source_names": {
+      "fr": "Créature stellaire adulte",
+      "en": "Full-Grown Fallingstar Beast"
+    },
+    "places": {
+      "fr": "Neuvième camp du Mont Gelmir",
+      "en": "Ninth Mt. Gelmir Campsite"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1037530800",
+    "name": "Maggie, reine semi-humaine",
+    "flag_id": 1037530800,
+    "content": "base_game",
+    "names": {
+      "fr": "Maggie, reine semi-humaine",
+      "en": "Demi-Human Queen Maggie"
+    },
+    "source_names": {
+      "fr": "Maggie, reine semi-humaine",
+      "en": "Demi-Human Queen Maggie"
+    },
+    "places": {
+      "fr": "Village des ermites",
+      "en": "Hermit Village"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1037540810",
+    "name": "Esprit d'arbre ulcéreux",
+    "flag_id": 1037540810,
+    "content": "base_game",
+    "names": {
+      "fr": "Esprit d'arbre ulcéreux",
+      "en": "Ulcerated Tree Spirit"
+    },
+    "source_names": {
+      "fr": "Esprit d'arbre ulcéreux",
+      "en": "Ulcerated Tree Spirit"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Mont Gelmir",
+      "en": "Mt. Gelmir"
+    },
+    "region_codes": [
+      3009,
+      3107,
+      3109,
+      6302
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_16000860",
+    "name": "Vierge ravisseuse aux faucilles & Vierge ravisseuse aux rouets",
+    "flag_id": 16000860,
+    "content": "base_game",
+    "names": {
+      "fr": "Vierge ravisseuse aux faucilles & Vierge ravisseuse aux rouets",
+      "en": "Abductor Virgin (Swinging Sickle) & Abductor Virgin (Wheel)"
+    },
+    "source_names": {
+      "fr": "Vierge ravisseuse aux faucilles & Vierge ravisseuse aux rouets",
+      "en": "Abductor Virgin (Swinging Sickle) & Abductor Virgin (Wheel)"
+    },
+    "places": {
+      "fr": "Chambre souterraine de l'Inquisition",
+      "en": "Subterranean Inquisition Chamber"
+    },
+    "regions": {
+      "fr": "Manoir du volcan",
+      "en": "Volcano Manor"
+    },
+    "region_codes": [
+      1600
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_16000850",
+    "name": "Noble sanctechair",
+    "flag_id": 16000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Noble sanctechair",
+      "en": "Godskin Noble"
+    },
+    "source_names": {
+      "fr": "Noble sanctechair",
+      "en": "Godskin Noble"
+    },
+    "places": {
+      "fr": "Temple d'Eiglay",
+      "en": "Temple of Eiglay"
+    },
+    "regions": {
+      "fr": "Manoir du volcan",
+      "en": "Volcano Manor"
+    },
+    "region_codes": [
+      1600
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_16000800",
+    "name": "Serpent dévoreur de dieux & Rykard, seigneur du blasphème",
+    "flag_id": 16000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Serpent dévoreur de dieux & Rykard, seigneur du blasphème",
+      "en": "God-Devouring Serpent & Rykard, Lord of Blasphemy"
+    },
+    "source_names": {
+      "fr": "Serpent dévoreur de dieux & Rykard, seigneur du blasphème",
+      "en": "God-Devouring Serpent & Rykard, Lord of Blasphemy"
+    },
+    "places": {
+      "fr": "Manoir du volcan",
+      "en": "Volcano Manor"
+    },
+    "regions": {
+      "fr": "Manoir du volcan",
+      "en": "Volcano Manor"
+    },
+    "region_codes": [
+      1600
+    ],
+    "remembrance": 5,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_35000850",
+    "name": "Esgar, prêtre du sang",
+    "flag_id": 35000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Esgar, prêtre du sang",
+      "en": "Esgar, Priest of Blood"
+    },
+    "source_names": {
+      "fr": "Esgar, prêtre du sang",
+      "en": "Esgar, Priest of Blood"
+    },
+    "places": {
+      "fr": "Catacombes de Leyndell",
+      "en": "Leyndell Catacombs"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale royale",
+      "en": "Leyndell, Royal Capital"
+    },
+    "region_codes": [
+      1100,
+      3414,
+      3415,
+      3500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_34140850",
+    "name": "Jumeau abominable(x2)",
+    "flag_id": 34140850,
+    "content": "base_game",
+    "names": {
+      "fr": "Jumeau abominable(x2)",
+      "en": "Fell Twin(x2)"
+    },
+    "source_names": {
+      "fr": "Jumeau abominable(x2)",
+      "en": "Fell Twin(x2)"
+    },
+    "places": {
+      "fr": "Tour divine d'Altus-Est",
+      "en": "Divine Tower of East Altus"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale royale",
+      "en": "Leyndell, Royal Capital"
+    },
+    "region_codes": [
+      1100,
+      3414,
+      3415,
+      3500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_35000800",
+    "name": "Mohg le Réprouvé",
+    "flag_id": 35000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Mohg le Réprouvé",
+      "en": "Mohg, the Omen"
+    },
+    "source_names": {
+      "fr": "Mohg le Réprouvé",
+      "en": "Mohg, the Omen"
+    },
+    "places": {
+      "fr": "Cathédrale des parias",
+      "en": "Cathedral of the Forsaken"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale royale",
+      "en": "Leyndell, Royal Capital"
+    },
+    "region_codes": [
+      1100,
+      3414,
+      3415,
+      3500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_11000850",
+    "name": "Godfrey, premier Seigneur d'Elden",
+    "flag_id": 11000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Godfrey, premier Seigneur d'Elden",
+      "en": "Godfrey, First Elden Lord"
+    },
+    "source_names": {
+      "fr": "Godfrey, premier Seigneur d'Elden",
+      "en": "Godfrey, First Elden Lord"
+    },
+    "places": {
+      "fr": "Sanctuaire de l'Arbre-Monde",
+      "en": "Erdtree Sanctuary"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale royale",
+      "en": "Leyndell, Royal Capital"
+    },
+    "region_codes": [
+      1100,
+      3414,
+      3415,
+      3500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_11000800",
+    "name": "Morgott, roi Réprouvé",
+    "flag_id": 11000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Morgott, roi Réprouvé",
+      "en": "Morgott, the Omen King"
+    },
+    "source_names": {
+      "fr": "Morgott, roi Réprouvé",
+      "en": "Morgott, the Omen King"
+    },
+    "places": {
+      "fr": "Trône d'Elden",
+      "en": "Elden Throne"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale royale",
+      "en": "Leyndell, Royal Capital"
+    },
+    "region_codes": [
+      1100,
+      3414,
+      3415,
+      3500
+    ],
+    "remembrance": 4,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1048510800",
+    "name": "Cavalier crépusculaire",
+    "flag_id": 1048510800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire",
+      "en": "Night's Cavalry"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Terres interdites",
+      "en": "Forbidden Lands"
+    },
+    "region_codes": [
+      6500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1049520800",
+    "name": "Adepte de la Lame d'ébène",
+    "flag_id": 1049520800,
+    "content": "base_game",
+    "names": {
+      "fr": "Adepte de la Lame d'ébène",
+      "en": "Black Blade Kindred"
+    },
+    "source_names": {
+      "fr": "Adepte de la Lame d'ébène",
+      "en": "Black Blade Kindred"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Terres interdites",
+      "en": "Forbidden Lands"
+    },
+    "region_codes": [
+      6500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30170800",
+    "name": "Ancien héros de Zamor",
+    "flag_id": 30170800,
+    "content": "base_game",
+    "names": {
+      "fr": "Ancien héros de Zamor",
+      "en": "Ancient Hero of Zamor"
+    },
+    "source_names": {
+      "fr": "Ancien héros de Zamor",
+      "en": "Ancient Hero of Zamor"
+    },
+    "places": {
+      "fr": "Tombe des pourfendeurs de Géants",
+      "en": "Giant-Conquering Hero's Grave"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30180800",
+    "name": "Esprit d'arbre ulcéreux",
+    "flag_id": 30180800,
+    "content": "base_game",
+    "names": {
+      "fr": "Esprit d'arbre ulcéreux",
+      "en": "Ulcerated Tree Spirit"
+    },
+    "source_names": {
+      "fr": "Esprit d'arbre ulcéreux",
+      "en": "Ulcerated Tree Spirit"
+    },
+    "places": {
+      "fr": "Catacombes des Cimes des Géants",
+      "en": "Giants' Mountaintop Catacombs"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31220800",
+    "name": "Apôtre sanctechair & Noble sanctechair & Escargot mande-esprit",
+    "flag_id": 31220800,
+    "content": "base_game",
+    "names": {
+      "fr": "Apôtre sanctechair & Noble sanctechair & Escargot mande-esprit",
+      "en": "Godskin Apostle & Godskin Noble & Spiritcaller Snail"
+    },
+    "source_names": {
+      "fr": "Apôtre sanctechair & Noble sanctechair & Escargot mande-esprit",
+      "en": "Godskin Apostle & Godskin Noble & Spiritcaller Snail"
+    },
+    "places": {
+      "fr": "Grotte du mande-esprit",
+      "en": "Spiritcaller Cave"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1254560800",
+    "name": "Borealis la Brume glaciale",
+    "flag_id": 1254560800,
+    "content": "base_game",
+    "names": {
+      "fr": "Borealis la Brume glaciale",
+      "en": "Borealis the Freezing Fog"
+    },
+    "source_names": {
+      "fr": "Borealis la Brume glaciale",
+      "en": "Borealis the Freezing Fog"
+    },
+    "places": {
+      "fr": "Lac gelé",
+      "en": "Freezing Lake"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1052560800",
+    "name": "Avatar de l'Arbre-Monde",
+    "flag_id": 1052560800,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar de l'Arbre-Monde",
+      "en": "Erdtree Avatar"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1053560800",
+    "name": "Vyke, chevalier de la Table ronde",
+    "flag_id": 1053560800,
+    "content": "base_game",
+    "names": {
+      "fr": "Vyke, chevalier de la Table ronde",
+      "en": "Roundtable Knight Vyke"
+    },
+    "source_names": {
+      "fr": "Vyke, chevalier de la Table ronde",
+      "en": "Roundtable Knight Vyke"
+    },
+    "places": {
+      "fr": "Geôle éternelle du prétendant",
+      "en": "Lord Contender's Evergaol"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1050570800",
+    "name": "Volatile funèbre",
+    "flag_id": 1050570800,
+    "content": "base_game",
+    "names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "source_names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1051570800",
+    "name": "Commandant Niall",
+    "flag_id": 1051570800,
+    "content": "base_game",
+    "names": {
+      "fr": "Commandant Niall",
+      "en": "Commander Niall"
+    },
+    "source_names": {
+      "fr": "Commandant Niall",
+      "en": "Commander Niall"
+    },
+    "places": {
+      "fr": "Solcastel",
+      "en": "Castle Sol"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1052520800",
+    "name": "Géant de feu",
+    "flag_id": 1052520800,
+    "content": "base_game",
+    "names": {
+      "fr": "Géant de feu",
+      "en": "Fire Giant"
+    },
+    "source_names": {
+      "fr": "Géant de feu",
+      "en": "Fire Giant"
+    },
+    "places": {
+      "fr": "Pic de la Flamme",
+      "en": "Flame Peak"
+    },
+    "regions": {
+      "fr": "Cimes des Géants",
+      "en": "Mountaintops of the Giants"
+    },
+    "region_codes": [
+      3017,
+      3018,
+      3122,
+      6501,
+      6502
+    ],
+    "remembrance": 6,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_13000850",
+    "name": "Duo sanctechair",
+    "flag_id": 13000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Duo sanctechair",
+      "en": "Godskin Duo"
+    },
+    "source_names": {
+      "fr": "Duo sanctechair",
+      "en": "Godskin Duo"
+    },
+    "places": {
+      "fr": "Autel du Temple des dragons",
+      "en": "Dragon Temple Altar"
+    },
+    "regions": {
+      "fr": "Ruines de Farum Azula",
+      "en": "Crumbling Farum Azula"
+    },
+    "region_codes": [
+      1300
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_13000830",
+    "name": "Placidusax, seigneur draconique",
+    "flag_id": 13000830,
+    "content": "base_game",
+    "names": {
+      "fr": "Placidusax, seigneur draconique",
+      "en": "Dragonlord Placidusax"
+    },
+    "source_names": {
+      "fr": "Placidusax, seigneur draconique",
+      "en": "Dragonlord Placidusax"
+    },
+    "places": {
+      "fr": "Abords du grand pont",
+      "en": "Beside the Great Bridge"
+    },
+    "regions": {
+      "fr": "Ruines de Farum Azula",
+      "en": "Crumbling Farum Azula"
+    },
+    "region_codes": [
+      1300
+    ],
+    "remembrance": 12,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_13000800",
+    "name": "Maliketh la Lame d'ébène",
+    "flag_id": 13000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Maliketh la Lame d'ébène",
+      "en": "Maliketh, the Black Blade"
+    },
+    "source_names": {
+      "fr": "Maliketh la Lame d'ébène",
+      "en": "Maliketh, the Black Blade"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Ruines de Farum Azula",
+      "en": "Crumbling Farum Azula"
+    },
+    "region_codes": [
+      1300
+    ],
+    "remembrance": 11,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30200800",
+    "name": "Larme imitatrice égarée",
+    "flag_id": 30200800,
+    "content": "base_game",
+    "names": {
+      "fr": "Larme imitatrice égarée",
+      "en": "Stray Mimic Tear"
+    },
+    "source_names": {
+      "fr": "Larme imitatrice égarée",
+      "en": "Stray Mimic Tear"
+    },
+    "places": {
+      "fr": "Chemin secret vers l'Arbre-Sacré",
+      "en": "Hidden Path to the Haligtree"
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_30190800",
+    "name": "Duelliste putride gardien du tombeau",
+    "flag_id": 30190800,
+    "content": "base_game",
+    "names": {
+      "fr": "Duelliste putride gardien du tombeau",
+      "en": "Putrid Grave Warden Duelist"
+    },
+    "source_names": {
+      "fr": "Duelliste putride gardien du tombeau",
+      "en": "Putrid Grave Warden Duelist"
+    },
+    "places": {
+      "fr": "Crypte des Champs enneigés consacrés",
+      "en": "Consecrated Snowfield Catacombs"
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_32110800",
+    "name": "Astel la Constellation des ténèbres",
+    "flag_id": 32110800,
+    "content": "base_game",
+    "names": {
+      "fr": "Astel la Constellation des ténèbres",
+      "en": "Astel, Stars of Darkness"
+    },
+    "source_names": {
+      "fr": "Astel la Constellation des ténèbres",
+      "en": "Astel, Stars of Darkness"
+    },
+    "places": {
+      "fr": "Galerie d'anis jaune",
+      "en": "Yelough Anix Tunnel"
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_31120800",
+    "name": "Croisé chimérique",
+    "flag_id": 31120800,
+    "content": "base_game",
+    "names": {
+      "fr": "Croisé chimérique",
+      "en": "Misbegotten Crusader"
+    },
+    "source_names": {
+      "fr": "Croisé chimérique",
+      "en": "Misbegotten Crusader"
+    },
+    "places": {
+      "fr": "Grotte des parias",
+      "en": "Cave of the Forlorn"
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1050560800",
+    "name": "Theodorix le Grand ver",
+    "flag_id": 1050560800,
+    "content": "base_game",
+    "names": {
+      "fr": "Theodorix le Grand ver",
+      "en": "Great Wyrm Theodorix"
+    },
+    "source_names": {
+      "fr": "Theodorix le Grand ver",
+      "en": "Great Wyrm Theodorix"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1050570850",
+    "name": "Avatar putride",
+    "flag_id": 1050570850,
+    "content": "base_game",
+    "names": {
+      "fr": "Avatar putride",
+      "en": "Putrid Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar putride",
+      "en": "Putrid Avatar"
+    },
+    "places": {
+      "fr": "Arbre-Monde mineur",
+      "en": "Minor Erdtree"
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1248550800",
+    "name": "Cavalier crépusculaire au glaive & Cavalier crépusculaire au fléau",
+    "flag_id": 1248550800,
+    "content": "base_game",
+    "names": {
+      "fr": "Cavalier crépusculaire au glaive & Cavalier crépusculaire au fléau",
+      "en": "Night's Cavalry (Glaive) & Night's Cavalry (Flail)"
+    },
+    "source_names": {
+      "fr": "Cavalier crépusculaire au glaive & Cavalier crépusculaire au fléau",
+      "en": "Night's Cavalry (Glaive) & Night's Cavalry (Flail)"
+    },
+    "places": {
+      "fr": "Champs enneigés consacrés intérieurs",
+      "en": "Inner Consecrated Snowfield"
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_1048570800",
+    "name": "Volatile funèbre",
+    "flag_id": 1048570800,
+    "content": "base_game",
+    "names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "source_names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Champs enneigés consacrés",
+      "en": "Consecrated Snowfield"
+    },
+    "region_codes": [
+      3019,
+      3020,
+      3112,
+      3211,
+      6503
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_15000850",
+    "name": "Loretta, chevaleresse de l'Arbre-Sacré",
+    "flag_id": 15000850,
+    "content": "base_game",
+    "names": {
+      "fr": "Loretta, chevaleresse de l'Arbre-Sacré",
+      "en": "Loretta, Knight of the Haligtree"
+    },
+    "source_names": {
+      "fr": "Loretta, chevaleresse de l'Arbre-Sacré",
+      "en": "Loretta, Knight of the Haligtree"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Arbre-Sacré de Miquella",
+      "en": "Miquella's Haligtree"
+    },
+    "region_codes": [
+      1500
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_15000800",
+    "name": "Malenia, épée de Miquella & Malenia, déesse de la putréfaction",
+    "flag_id": 15000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Malenia, épée de Miquella & Malenia, déesse de la putréfaction",
+      "en": "Malenia, Blade of Miquella & Malenia, Goddess of Rot"
+    },
+    "source_names": {
+      "fr": "Malenia, épée de Miquella & Malenia, déesse de la putréfaction",
+      "en": "Malenia, Blade of Miquella & Malenia, Goddess of Rot"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Arbre-Sacré de Miquella",
+      "en": "Miquella's Haligtree"
+    },
+    "region_codes": [
+      1500
+    ],
+    "remembrance": 13,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12020830",
+    "name": "Soldat draconide",
+    "flag_id": 12020830,
+    "content": "base_game",
+    "names": {
+      "fr": "Soldat draconide",
+      "en": "Dragonkin Soldier"
+    },
+    "source_names": {
+      "fr": "Soldat draconide",
+      "en": "Dragonkin Soldier"
+    },
+    "places": {
+      "fr": "Berge de la Siofra",
+      "en": "Siofra River Bank"
+    },
+    "regions": {
+      "fr": "La Siofra",
+      "en": "Siofra River"
+    },
+    "region_codes": [
+      1202,
+      1207
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12080800",
+    "name": "Esprit ancestral",
+    "flag_id": 12080800,
+    "content": "base_game",
+    "names": {
+      "fr": "Esprit ancestral",
+      "en": "Ancestor Spirit"
+    },
+    "source_names": {
+      "fr": "Esprit ancestral",
+      "en": "Ancestor Spirit"
+    },
+    "places": {
+      "fr": "Berge de la Siofra",
+      "en": "Siofra River Bank"
+    },
+    "regions": {
+      "fr": "La Siofra",
+      "en": "Siofra River"
+    },
+    "region_codes": [
+      1202,
+      1207
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12020850",
+    "name": "Larme imitatrice",
+    "flag_id": 12020850,
+    "content": "base_game",
+    "names": {
+      "fr": "Larme imitatrice",
+      "en": "Mimic Tear"
+    },
+    "source_names": {
+      "fr": "Larme imitatrice",
+      "en": "Mimic Tear"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "La Siofra",
+      "en": "Siofra River"
+    },
+    "region_codes": [
+      1202,
+      1207
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12090800",
+    "name": "Esprit ancestral royal",
+    "flag_id": 12090800,
+    "content": "base_game",
+    "names": {
+      "fr": "Esprit ancestral royal",
+      "en": "Regal Ancestor Spirit"
+    },
+    "source_names": {
+      "fr": "Esprit ancestral royal",
+      "en": "Regal Ancestor Spirit"
+    },
+    "places": {
+      "fr": "Domaine de Sacrecorne",
+      "en": "Hallowhorn Grounds"
+    },
+    "regions": {
+      "fr": "La Siofra",
+      "en": "Siofra River"
+    },
+    "region_codes": [
+      1202,
+      1207
+    ],
+    "remembrance": 7,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12020800",
+    "name": "Gargouille vaillante & Gargouille vaillante à la lame double",
+    "flag_id": 12020800,
+    "content": "base_game",
+    "names": {
+      "fr": "Gargouille vaillante & Gargouille vaillante à la lame double",
+      "en": "Valiant Gargoyle & Valiant Gargoyle (Twinblade)"
+    },
+    "source_names": {
+      "fr": "Gargouille vaillante & Gargouille vaillante à la lame double",
+      "en": "Valiant Gargoyle & Valiant Gargoyle (Twinblade)"
+    },
+    "places": {
+      "fr": "Aqueduc de Siofra",
+      "en": "Siofra Aqueduct"
+    },
+    "regions": {
+      "fr": "La Siofra",
+      "en": "Siofra River"
+    },
+    "region_codes": [
+      1202,
+      1207
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12050800",
+    "name": "Mohg, seigneur du sang",
+    "flag_id": 12050800,
+    "content": "base_game",
+    "names": {
+      "fr": "Mohg, seigneur du sang",
+      "en": "Mohg, Lord of Blood"
+    },
+    "source_names": {
+      "fr": "Mohg, seigneur du sang",
+      "en": "Mohg, Lord of Blood"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Mausolée de la dynastie Mohgwyn",
+      "en": "Mohgwyn Dynasty Mausoleum"
+    },
+    "region_codes": [
+      1205
+    ],
+    "remembrance": 10,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12010800",
+    "name": "Soldat draconide de Nokstella",
+    "flag_id": 12010800,
+    "content": "base_game",
+    "names": {
+      "fr": "Soldat draconide de Nokstella",
+      "en": "Dragonkin Soldier of Nokstella"
+    },
+    "source_names": {
+      "fr": "Soldat draconide de Nokstella",
+      "en": "Dragonkin Soldier of Nokstella"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "L'Ainsel",
+      "en": "Ainsel River"
+    },
+    "region_codes": [
+      1201,
+      1204
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12010850",
+    "name": "Soldat draconide",
+    "flag_id": 12010850,
+    "content": "base_game",
+    "names": {
+      "fr": "Soldat draconide",
+      "en": "Dragonkin Soldier"
+    },
+    "source_names": {
+      "fr": "Soldat draconide",
+      "en": "Dragonkin Soldier"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "L'Ainsel",
+      "en": "Ainsel River"
+    },
+    "region_codes": [
+      1201,
+      1204
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12040800",
+    "name": "Astel le Rejeton du vide",
+    "flag_id": 12040800,
+    "content": "base_game",
+    "names": {
+      "fr": "Astel le Rejeton du vide",
+      "en": "Astel, Naturalborn of the Void"
+    },
+    "source_names": {
+      "fr": "Astel le Rejeton du vide",
+      "en": "Astel, Naturalborn of the Void"
+    },
+    "places": {
+      "fr": "Grand cloître",
+      "en": "Grand Cloister"
+    },
+    "regions": {
+      "fr": "L'Ainsel",
+      "en": "Ainsel River"
+    },
+    "region_codes": [
+      1201,
+      1204
+    ],
+    "remembrance": 8,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12030390",
+    "name": "Siluria du Creuset",
+    "flag_id": 12030390,
+    "content": "base_game",
+    "names": {
+      "fr": "Siluria du Creuset",
+      "en": "Crucible Knight Siluria"
+    },
+    "source_names": {
+      "fr": "Siluria du Creuset",
+      "en": "Crucible Knight Siluria"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Profondeurs de Fonderacine",
+      "en": "Deeproot Depths"
+    },
+    "region_codes": [
+      1203
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12030800",
+    "name": "Champion de Fia & Rogier le Sorcier & Lionel Cœur-de-Lion",
+    "flag_id": 12030800,
+    "content": "base_game",
+    "names": {
+      "fr": "Champion de Fia & Rogier le Sorcier & Lionel Cœur-de-Lion",
+      "en": "Fia's Champion & Sorcerer Rogier & Lionel the Lionhearted"
+    },
+    "source_names": {
+      "fr": "Champion de Fia & Rogier le Sorcier & Lionel Cœur-de-Lion",
+      "en": "Fia's Champion & Sorcerer Rogier & Lionel the Lionhearted"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Profondeurs de Fonderacine",
+      "en": "Deeproot Depths"
+    },
+    "region_codes": [
+      1203
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_12030850",
+    "name": "Fortissax la Liche draconique",
+    "flag_id": 12030850,
+    "content": "base_game",
+    "names": {
+      "fr": "Fortissax la Liche draconique",
+      "en": "Lichdragon Fortissax"
+    },
+    "source_names": {
+      "fr": "Fortissax la Liche draconique",
+      "en": "Lichdragon Fortissax"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Profondeurs de Fonderacine",
+      "en": "Deeproot Depths"
+    },
+    "region_codes": [
+      1203
+    ],
+    "remembrance": 9,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_11050850",
+    "name": "Sire Gideon Ofnir l'Omniscient",
+    "flag_id": 11050850,
+    "content": "base_game",
+    "names": {
+      "fr": "Sire Gideon Ofnir l'Omniscient",
+      "en": "Sir Gideon Ofnir, the All-Knowing"
+    },
+    "source_names": {
+      "fr": "Sire Gideon Ofnir l'Omniscient",
+      "en": "Sir Gideon Ofnir, the All-Knowing"
+    },
+    "places": {
+      "fr": "Sanctuaire de l'Arbre-Monde",
+      "en": "Erdtree Sanctuary"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale des cendres",
+      "en": "Leyndell, Ashen Capital"
+    },
+    "region_codes": [
+      1105,
+      1900
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_11050800",
+    "name": "Godfrey, premier Seigneur d'Elden",
+    "flag_id": 11050800,
+    "content": "base_game",
+    "names": {
+      "fr": "Godfrey, premier Seigneur d'Elden",
+      "en": "Godfrey, First Elden Lord"
+    },
+    "source_names": {
+      "fr": "Godfrey, premier Seigneur d'Elden",
+      "en": "Godfrey, First Elden Lord"
+    },
+    "places": {
+      "fr": "Trône d'Elden",
+      "en": "Elden Throne"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale des cendres",
+      "en": "Leyndell, Ashen Capital"
+    },
+    "region_codes": [
+      1105,
+      1900
+    ],
+    "remembrance": 14,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_19000800",
+    "name": "Radagon de l'Ordre d'or & Bête d'Elden",
+    "flag_id": 19000800,
+    "content": "base_game",
+    "names": {
+      "fr": "Radagon de l'Ordre d'or & Bête d'Elden",
+      "en": "Radagon of the Golden Order & Elden Beast"
+    },
+    "source_names": {
+      "fr": "Radagon de l'Ordre d'or & Bête d'Elden",
+      "en": "Radagon of the Golden Order & Elden Beast"
+    },
+    "places": {
+      "fr": "Marika brisée",
+      "en": "Fractured Marika"
+    },
+    "regions": {
+      "fr": "Leyndell, capitale des cendres",
+      "en": "Leyndell, Ashen Capital"
+    },
+    "region_codes": [
+      1105,
+      1900
+    ],
+    "remembrance": 15,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2045440800",
+    "name": "Dragon de flammes spectrales",
+    "flag_id": 2045440800,
+    "content": "dlc",
+    "names": {
+      "fr": "Dragon de flammes spectrales",
+      "en": "Ghostflame Dragon"
+    },
+    "source_names": {
+      "fr": "Dragon de flammes spectrales",
+      "en": "Ghostflame Dragon"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2046410800",
+    "name": "Chevalier de la Geôle Solitaire",
+    "flag_id": 2046410800,
+    "content": "dlc",
+    "names": {
+      "fr": "Chevalier de la Geôle Solitaire",
+      "en": "Blackgaol Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier de la Geôle Solitaire",
+      "en": "Blackgaol Knight"
+    },
+    "places": {
+      "fr": "Mausolée occidental sans nom",
+      "en": "Western Nameless Mausoleum"
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_43000800",
+    "name": "Chef des démons sanglants",
+    "flag_id": 43000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Chef des démons sanglants",
+      "en": "Chief Bloodfiend"
+    },
+    "source_names": {
+      "fr": "Chef des démons sanglants",
+      "en": "Chief Bloodfiend"
+    },
+    "places": {
+      "fr": "Grotte de l'embouchure",
+      "en": "Rivermouth Cave"
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_41020800",
+    "name": "Larmoyeur",
+    "flag_id": 41020800,
+    "content": "dlc",
+    "names": {
+      "fr": "Larmoyeur",
+      "en": "Lamenter"
+    },
+    "source_names": {
+      "fr": "Larmoyeur",
+      "en": "Lamenter"
+    },
+    "places": {
+      "fr": "Geôle de larmoyeur",
+      "en": "Lamenter's Gaol"
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_41000800",
+    "name": "Onze, épéiste semi-humain",
+    "flag_id": 41000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Onze, épéiste semi-humain",
+      "en": "Demi-Human Swordmaster Onze"
+    },
+    "source_names": {
+      "fr": "Onze, épéiste semi-humain",
+      "en": "Demi-Human Swordmaster Onze"
+    },
+    "places": {
+      "fr": "Geôles de Belurat",
+      "en": "Belurat Gaol"
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_20000800",
+    "name": "Lion dansant de la bête divine",
+    "flag_id": 20000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Lion dansant de la bête divine",
+      "en": "Divine Beast Dancing Lion"
+    },
+    "source_names": {
+      "fr": "Lion dansant de la bête divine",
+      "en": "Divine Beast Dancing Lion"
+    },
+    "places": {
+      "fr": "Belurat, colonie de la tour",
+      "en": "Belurat, Tower Settlement"
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": 16,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2048440800",
+    "name": "Rellana, chevaleresse des Lunes jumelles",
+    "flag_id": 2048440800,
+    "content": "dlc",
+    "names": {
+      "fr": "Rellana, chevaleresse des Lunes jumelles",
+      "en": "Rellana, Twin Moon Knight"
+    },
+    "source_names": {
+      "fr": "Rellana, chevaleresse des Lunes jumelles",
+      "en": "Rellana, Twin Moon Knight"
+    },
+    "places": {
+      "fr": "Château d'Ensis",
+      "en": "Castle Ensis"
+    },
+    "regions": {
+      "fr": "Plaine sépulcrale",
+      "en": "Gravesite Plain"
+    },
+    "region_codes": [
+      4100,
+      4102,
+      4300,
+      6800,
+      6801,
+      6804,
+      6805,
+      6806,
+      6810,
+      6815,
+      6820
+    ],
+    "remembrance": 17,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2049430800",
+    "name": "Dragon de flammes spectrales",
+    "flag_id": 2049430800,
+    "content": "dlc",
+    "names": {
+      "fr": "Dragon de flammes spectrales",
+      "en": "Ghostflame Dragon"
+    },
+    "source_names": {
+      "fr": "Dragon de flammes spectrales",
+      "en": "Ghostflame Dragon"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2049450800",
+    "name": "Ralva, grand ours écarlate",
+    "flag_id": 2049450800,
+    "content": "dlc",
+    "names": {
+      "fr": "Ralva, grand ours écarlate",
+      "en": "Ralva the Great Red Bear"
+    },
+    "source_names": {
+      "fr": "Ralva, grand ours écarlate",
+      "en": "Ralva the Great Red Bear"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2044470800",
+    "name": "Rugalea, grand ours écarlate",
+    "flag_id": 2044470800,
+    "content": "dlc",
+    "names": {
+      "fr": "Rugalea, grand ours écarlate",
+      "en": "Rugalea the Great Red Bear"
+    },
+    "source_names": {
+      "fr": "Rugalea, grand ours écarlate",
+      "en": "Rugalea the Great Red Bear"
+    },
+    "places": {
+      "fr": "Base de Rauh",
+      "en": "Rauh Base"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2049440800",
+    "name": "Dane Mortefeuille",
+    "flag_id": 2049440800,
+    "content": "dlc",
+    "names": {
+      "fr": "Dane Mortefeuille",
+      "en": "Dryleaf Dane"
+    },
+    "source_names": {
+      "fr": "Dane Mortefeuille",
+      "en": "Dryleaf Dane"
+    },
+    "places": {
+      "fr": "Ruines de Moorth",
+      "en": "Moorth Ruins"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2049430850",
+    "name": "Edredd, chevalier Noir",
+    "flag_id": 2049430850,
+    "content": "dlc",
+    "names": {
+      "fr": "Edredd, chevalier Noir",
+      "en": "Black Knight Edredd"
+    },
+    "source_names": {
+      "fr": "Edredd, chevalier Noir",
+      "en": "Black Knight Edredd"
+    },
+    "places": {
+      "fr": "Fort de la Réprimande",
+      "en": "Fort of Reprimand"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2047450800",
+    "name": "Garrew, chevalier Noir",
+    "flag_id": 2047450800,
+    "content": "dlc",
+    "names": {
+      "fr": "Garrew, chevalier Noir",
+      "en": "Black Knight Garrew"
+    },
+    "source_names": {
+      "fr": "Garrew, chevalier Noir",
+      "en": "Black Knight Garrew"
+    },
+    "places": {
+      "fr": "Fort de la faille brumeuse",
+      "en": "Fog Rift Fort"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2046450800",
+    "name": "Ours écarlate",
+    "flag_id": 2046450800,
+    "content": "dlc",
+    "names": {
+      "fr": "Ours écarlate",
+      "en": "Red Bear"
+    },
+    "source_names": {
+      "fr": "Ours écarlate",
+      "en": "Red Bear"
+    },
+    "places": {
+      "fr": "Mausolée septentrional sans nom",
+      "en": "Northern Nameless Mausoleum"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2051440800",
+    "name": "Rakshasa",
+    "flag_id": 2051440800,
+    "content": "dlc",
+    "names": {
+      "fr": "Rakshasa",
+      "en": "Rakshasa"
+    },
+    "source_names": {
+      "fr": "Rakshasa",
+      "en": "Rakshasa"
+    },
+    "places": {
+      "fr": "Mausolée oriental sans nom",
+      "en": "Eastern Nameless Mausoleum"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_25000800",
+    "name": "Metyr, mère des Doigts",
+    "flag_id": 25000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Metyr, mère des Doigts",
+      "en": "Metyr, Mother of Fingers"
+    },
+    "source_names": {
+      "fr": "Metyr, mère des Doigts",
+      "en": "Metyr, Mother of Fingers"
+    },
+    "places": {
+      "fr": "Cathédrale de Manus Metyr",
+      "en": "Cathedral of Manus Metyr"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": 18,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2051450800",
+    "name": "Comte Ymir, mère des Doigts",
+    "flag_id": 2051450800,
+    "content": "dlc",
+    "names": {
+      "fr": "Comte Ymir, mère des Doigts",
+      "en": "Count Ymir, Mother of Fingers"
+    },
+    "source_names": {
+      "fr": "Comte Ymir, mère des Doigts",
+      "en": "Count Ymir, Mother of Fingers"
+    },
+    "places": {
+      "fr": "Cathédrale de Manus Metyr",
+      "en": "Cathedral of Manus Metyr"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_40000800",
+    "name": "Chevalier de la Mort",
+    "flag_id": 40000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Chevalier de la Mort",
+      "en": "Death Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier de la Mort",
+      "en": "Death Knight"
+    },
+    "places": {
+      "fr": "Catacombes de la faille brumeuse",
+      "en": "Fog Rift Catacombs"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_40010800",
+    "name": "Chevalier de la Mort",
+    "flag_id": 40010800,
+    "content": "dlc",
+    "names": {
+      "fr": "Chevalier de la Mort",
+      "en": "Death Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier de la Mort",
+      "en": "Death Knight"
+    },
+    "places": {
+      "fr": "Catacombes du Scorpion",
+      "en": "Scorpion River Catacombs"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_41010800",
+    "name": "Labirith l'Exécrable",
+    "flag_id": 41010800,
+    "content": "dlc",
+    "names": {
+      "fr": "Labirith l'Exécrable",
+      "en": "Curseblade Labirith"
+    },
+    "source_names": {
+      "fr": "Labirith l'Exécrable",
+      "en": "Curseblade Labirith"
+    },
+    "places": {
+      "fr": "Geôles de Bonny",
+      "en": "Bonny Gaol"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_21000850",
+    "name": "Hippopotame doré",
+    "flag_id": 21000850,
+    "content": "dlc",
+    "names": {
+      "fr": "Hippopotame doré",
+      "en": "Golden Hippopotamus"
+    },
+    "source_names": {
+      "fr": "Hippopotame doré",
+      "en": "Golden Hippopotamus"
+    },
+    "places": {
+      "fr": "Château noir",
+      "en": "Shadow Keep"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_21010800",
+    "name": "Messmer l'Empaleur & Messmer, serpent maléfique",
+    "flag_id": 21010800,
+    "content": "dlc",
+    "names": {
+      "fr": "Messmer l'Empaleur & Messmer, serpent maléfique",
+      "en": "Messmer the Impaler & Base Serpent Messmer"
+    },
+    "source_names": {
+      "fr": "Messmer l'Empaleur & Messmer, serpent maléfique",
+      "en": "Messmer the Impaler & Base Serpent Messmer"
+    },
+    "places": {
+      "fr": "Château noir",
+      "en": "Shadow Keep"
+    },
+    "regions": {
+      "fr": "Altus Occulte",
+      "en": "Scadu Altus"
+    },
+    "region_codes": [
+      4000,
+      4001,
+      4101,
+      6900,
+      6901,
+      6902,
+      6903,
+      6904,
+      6905,
+      6906
+    ],
+    "remembrance": 20,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2046460800",
+    "name": "Lion dansant de la bête divine",
+    "flag_id": 2046460800,
+    "content": "dlc",
+    "names": {
+      "fr": "Lion dansant de la bête divine",
+      "en": "Divine Beast Dancing Lion"
+    },
+    "source_names": {
+      "fr": "Lion dansant de la bête divine",
+      "en": "Divine Beast Dancing Lion"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Ruines antiques de Rauh",
+      "en": "Ancient Ruins of Rauh"
+    },
+    "region_codes": [
+      6940
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2044450800",
+    "name": "Romina, sainte du bourgeon",
+    "flag_id": 2044450800,
+    "content": "dlc",
+    "names": {
+      "fr": "Romina, sainte du bourgeon",
+      "en": "Romina, Saint of the Bud"
+    },
+    "source_names": {
+      "fr": "Romina, sainte du bourgeon",
+      "en": "Romina, Saint of the Bud"
+    },
+    "places": {
+      "fr": "Église du bourgeon",
+      "en": "Church of the Bud"
+    },
+    "regions": {
+      "fr": "Ruines antiques de Rauh",
+      "en": "Ancient Ruins of Rauh"
+    },
+    "region_codes": [
+      6940
+    ],
+    "remembrance": 21,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2048380850",
+    "name": "Dragon de flammes spectrales",
+    "flag_id": 2048380850,
+    "content": "dlc",
+    "names": {
+      "fr": "Dragon de flammes spectrales",
+      "en": "Ghostflame Dragon"
+    },
+    "source_names": {
+      "fr": "Dragon de flammes spectrales",
+      "en": "Ghostflame Dragon"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Côte céruléenne",
+      "en": "Cerulean Coast"
+    },
+    "region_codes": [
+      2200,
+      6830,
+      6835
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2046380800",
+    "name": "Danseuse de Ranah",
+    "flag_id": 2046380800,
+    "content": "dlc",
+    "names": {
+      "fr": "Danseuse de Ranah",
+      "en": "Dancer of Ranah"
+    },
+    "source_names": {
+      "fr": "Danseuse de Ranah",
+      "en": "Dancer of Ranah"
+    },
+    "places": {
+      "fr": "Mausolée austral sans nom",
+      "en": "Southern Nameless Mausoleum"
+    },
+    "regions": {
+      "fr": "Côte céruléenne",
+      "en": "Cerulean Coast"
+    },
+    "region_codes": [
+      2200,
+      6830,
+      6835
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_22000800",
+    "name": "Chevalier putride",
+    "flag_id": 22000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Chevalier putride",
+      "en": "Putrescent Knight"
+    },
+    "source_names": {
+      "fr": "Chevalier putride",
+      "en": "Putrescent Knight"
+    },
+    "places": {
+      "fr": "Fissure des cercueils de pierre",
+      "en": "Stone Coffin Fissure"
+    },
+    "regions": {
+      "fr": "Côte céruléenne",
+      "en": "Cerulean Coast"
+    },
+    "region_codes": [
+      2200,
+      6830,
+      6835
+    ],
+    "remembrance": 22,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2047390800",
+    "name": "Volatile funèbre",
+    "flag_id": 2047390800,
+    "content": "dlc",
+    "names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "source_names": {
+      "fr": "Volatile funèbre",
+      "en": "Death Rite Bird"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Tombeau secret de Charo",
+      "en": "Charo's Hidden Grave"
+    },
+    "region_codes": [
+      6840
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2046400800",
+    "name": "Marigga, reine semi-humaine",
+    "flag_id": 2046400800,
+    "content": "dlc",
+    "names": {
+      "fr": "Marigga, reine semi-humaine",
+      "en": "Demi-Human Queen Marigga"
+    },
+    "source_names": {
+      "fr": "Marigga, reine semi-humaine",
+      "en": "Demi-Human Queen Marigga"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Tombeau secret de Charo",
+      "en": "Charo's Hidden Grave"
+    },
+    "region_codes": [
+      6840
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2049410800",
+    "name": "Dragon du Pic déchiqueté",
+    "flag_id": 2049410800,
+    "content": "dlc",
+    "names": {
+      "fr": "Dragon du Pic déchiqueté",
+      "en": "Jagged Peak Drake"
+    },
+    "source_names": {
+      "fr": "Dragon du Pic déchiqueté",
+      "en": "Jagged Peak Drake"
+    },
+    "places": {
+      "fr": "Pied du Pic déchiqueté",
+      "en": "Foot of the Jagged Peak"
+    },
+    "regions": {
+      "fr": "Pic déchiqueté",
+      "en": "Jagged Peak"
+    },
+    "region_codes": [
+      4301,
+      6841,
+      6850
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2052400800",
+    "name": "Dragon du Pic déchiqueté",
+    "flag_id": 2052400800,
+    "content": "dlc",
+    "names": {
+      "fr": "Dragon du Pic déchiqueté",
+      "en": "Jagged Peak Drake"
+    },
+    "source_names": {
+      "fr": "Dragon du Pic déchiqueté",
+      "en": "Jagged Peak Drake"
+    },
+    "places": {
+      "fr": "Flanc du Pic déchiqueté",
+      "en": "Jagged Peak Mountainside"
+    },
+    "regions": {
+      "fr": "Pic déchiqueté",
+      "en": "Jagged Peak"
+    },
+    "region_codes": [
+      4301,
+      6841,
+      6850
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_43010800",
+    "name": "Homme-dragon ancien",
+    "flag_id": 43010800,
+    "content": "dlc",
+    "names": {
+      "fr": "Homme-dragon ancien",
+      "en": "Ancient Dragon-Man"
+    },
+    "source_names": {
+      "fr": "Homme-dragon ancien",
+      "en": "Ancient Dragon-Man"
+    },
+    "places": {
+      "fr": "Fosse au dragon",
+      "en": "Dragon's Pit"
+    },
+    "regions": {
+      "fr": "Pic déchiqueté",
+      "en": "Jagged Peak"
+    },
+    "region_codes": [
+      4301,
+      6841,
+      6850
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2054390850",
+    "name": "Senessax, Dragon ancien",
+    "flag_id": 2054390850,
+    "content": "dlc",
+    "names": {
+      "fr": "Senessax, Dragon ancien",
+      "en": "Ancient Dragon Senessax"
+    },
+    "source_names": {
+      "fr": "Senessax, Dragon ancien",
+      "en": "Ancient Dragon Senessax"
+    },
+    "places": {
+      "fr": "Flanc du Pic déchiqueté",
+      "en": "Jagged Peak Mountainside"
+    },
+    "regions": {
+      "fr": "Pic déchiqueté",
+      "en": "Jagged Peak"
+    },
+    "region_codes": [
+      4301,
+      6841,
+      6850
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2054390800",
+    "name": "Bayle l'Effroyable",
+    "flag_id": 2054390800,
+    "content": "dlc",
+    "names": {
+      "fr": "Bayle l'Effroyable",
+      "en": "Bayle the Dread"
+    },
+    "source_names": {
+      "fr": "Bayle l'Effroyable",
+      "en": "Bayle the Dread"
+    },
+    "places": {
+      "fr": "Sommet du Pic déchiqueté",
+      "en": "Jagged Peak Summit"
+    },
+    "regions": {
+      "fr": "Pic déchiqueté",
+      "en": "Jagged Peak"
+    },
+    "region_codes": [
+      4301,
+      6841,
+      6850
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2050470800",
+    "name": "Sentinelle de l'Arbre",
+    "flag_id": 2050470800,
+    "content": "dlc",
+    "names": {
+      "fr": "Sentinelle de l'Arbre",
+      "en": "Tree Sentinel"
+    },
+    "source_names": {
+      "fr": "Sentinelle de l'Arbre",
+      "en": "Tree Sentinel"
+    },
+    "places": {
+      "fr": "Arrière-pays",
+      "en": "Hinterland"
+    },
+    "regions": {
+      "fr": "Panorama occulte",
+      "en": "Scaduview"
+    },
+    "region_codes": [
+      6920,
+      6930,
+      6960
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2050480860",
+    "name": "Sentinelle de l'Arbre",
+    "flag_id": 2050480860,
+    "content": "dlc",
+    "names": {
+      "fr": "Sentinelle de l'Arbre",
+      "en": "Tree Sentinel"
+    },
+    "source_names": {
+      "fr": "Sentinelle de l'Arbre",
+      "en": "Tree Sentinel"
+    },
+    "places": {
+      "fr": "Pont de l’Arrière-Pays",
+      "en": "Hinterland Bridge"
+    },
+    "regions": {
+      "fr": "Panorama occulte",
+      "en": "Scaduview"
+    },
+    "region_codes": [
+      6920,
+      6930,
+      6960
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2052480800",
+    "name": "Créature stellaire",
+    "flag_id": 2052480800,
+    "content": "dlc",
+    "names": {
+      "fr": "Créature stellaire",
+      "en": "Fallingstar Beast"
+    },
+    "source_names": {
+      "fr": "Créature stellaire",
+      "en": "Fallingstar Beast"
+    },
+    "places": {
+      "fr": "Colline des Doigts de pierre",
+      "en": "Fingerstone Hill"
+    },
+    "regions": {
+      "fr": "Panorama occulte",
+      "en": "Scaduview"
+    },
+    "region_codes": [
+      6920,
+      6930,
+      6960
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2049480800",
+    "name": "Commandant Gaïus",
+    "flag_id": 2049480800,
+    "content": "dlc",
+    "names": {
+      "fr": "Commandant Gaïus",
+      "en": "Commander Gaius"
+    },
+    "source_names": {
+      "fr": "Commandant Gaïus",
+      "en": "Commander Gaius"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Panorama occulte",
+      "en": "Scaduview"
+    },
+    "region_codes": [
+      6920,
+      6930,
+      6960
+    ],
+    "remembrance": 19,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2050480800",
+    "name": "Avatar de l'Arbre-Occulte",
+    "flag_id": 2050480800,
+    "content": "dlc",
+    "names": {
+      "fr": "Avatar de l'Arbre-Occulte",
+      "en": "Scadutree Avatar"
+    },
+    "source_names": {
+      "fr": "Avatar de l'Arbre-Occulte",
+      "en": "Scadutree Avatar"
+    },
+    "places": {
+      "fr": "Base de l'Arbre-Occulte",
+      "en": "Scadutree Base"
+    },
+    "regions": {
+      "fr": "Panorama occulte",
+      "en": "Scaduview"
+    },
+    "region_codes": [
+      6920,
+      6930,
+      6960
+    ],
+    "remembrance": 24,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_2052430800",
+    "name": "Jori, inquisiteur en chef",
+    "flag_id": 2052430800,
+    "content": "dlc",
+    "names": {
+      "fr": "Jori, inquisiteur en chef",
+      "en": "Jori, Elder Inquisitor"
+    },
+    "source_names": {
+      "fr": "Jori, inquisiteur en chef",
+      "en": "Jori, Elder Inquisitor"
+    },
+    "places": {
+      "fr": "Catacombes de la lumière noire",
+      "en": "Darklight Catacombs"
+    },
+    "regions": {
+      "fr": "Bois abyssaux",
+      "en": "Abyssal Woods"
+    },
+    "region_codes": [
+      2800,
+      4002,
+      6860
+    ],
+    "remembrance": null,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_28000800",
+    "name": "Midra, seigneur de la Flamme exaltée",
+    "flag_id": 28000800,
+    "content": "dlc",
+    "names": {
+      "fr": "Midra, seigneur de la Flamme exaltée",
+      "en": "Midra, Lord of Frenzied Flame"
+    },
+    "source_names": {
+      "fr": "Midra, seigneur de la Flamme exaltée",
+      "en": "Midra, Lord of Frenzied Flame"
+    },
+    "places": {
+      "fr": "Presbytère de Midra",
+      "en": "Midra's Manse"
+    },
+    "regions": {
+      "fr": "Bois abyssaux",
+      "en": "Abyssal Woods"
+    },
+    "region_codes": [
+      2800,
+      4002,
+      6860
+    ],
+    "remembrance": 23,
+    "individually_tested": false
+  },
+  {
+    "id": "flag_20010800",
+    "name": "Radahn, futur consort & Radahn, consort de Miquella",
+    "flag_id": 20010800,
+    "content": "dlc",
+    "names": {
+      "fr": "Radahn, futur consort & Radahn, consort de Miquella",
+      "en": "Promised Consort Radahn & Radahn, Consort of Miquella"
+    },
+    "source_names": {
+      "fr": "Radahn, futur consort & Radahn, consort de Miquella",
+      "en": "Promised Consort Radahn & Radahn, Consort of Miquella"
+    },
+    "places": {
+      "fr": "",
+      "en": ""
+    },
+    "regions": {
+      "fr": "Enir-Ilim",
+      "en": "Enir-Ilim"
+    },
+    "region_codes": [
+      2001
+    ],
+    "remembrance": 25,
+    "individually_tested": false
+  }
+]

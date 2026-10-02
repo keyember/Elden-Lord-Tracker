@@ -1,0 +1,4 @@
+Adapted from SoulMemory/EldenRing/EldenRing.cs, Copyright (c) 2022 Frank van der Stam.
+Upstream SHA: 2c4359314518124da59623d940154fdbf69706e0
+Changes 2026-10-02: Python read-only scanner, no writes/injection, standalone experimental load-excluded test clock.
+GPL-3.0-only. No warranty.

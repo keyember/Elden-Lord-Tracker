@@ -1,0 +1,30 @@
+{
+  "repository": "https://github.com/soarqin/EROverlay",
+  "commit": "ad738093c24092bf2ab784380ad5b8c0f469cf94",
+  "sources": {
+    "fr": {
+      "sha": "ecf88d5862e3d756a6d18dc69601678566044c94",
+      "size": 32714,
+      "filename": "bosses_fr.json"
+    },
+    "en": {
+      "sha": "e5dd238c25a2ba601154c1c7566062dfc49d4e5a",
+      "size": 30754,
+      "filename": "bosses_en.json"
+    },
+    "license": {
+      "sha": "a76d1228057bf691590c0307581ee81cdbd0d88f",
+      "size": 1070,
+      "filename": "LICENSE_EROverlay.txt"
+    }
+  },
+  "counts": {
+    "base_game": 165,
+    "dlc": 42
+  },
+  "individually_tested_flags": [
+    10000850,
+    10000800,
+    1252380800
+  ]
+}
