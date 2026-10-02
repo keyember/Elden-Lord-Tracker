@@ -1,5 +1,3 @@
-# SPDX-License-Identifier: GPL-3.0-only
-"""Registre des associations de combat - accepte la regle EMEVD pour tous les bosses."""
 from .boss_catalog import BOSSES,BY_ID
 
 SOURCE_BANK={
