@@ -56,7 +56,6 @@ def read_configuration():
 
 
 def supported_specs(include_disabled=False):
-    """Retourne la liste des specs de combat supportées."""
     specs = list(SOURCE_BANK.values())
     if include_disabled:
         return specs
