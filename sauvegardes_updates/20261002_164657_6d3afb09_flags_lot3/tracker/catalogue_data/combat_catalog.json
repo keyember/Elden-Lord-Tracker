@@ -1,0 +1,1573 @@
+{
+  "schema_version": 1,
+  "encounters": {
+    "flag_18000850": {
+      "active_flag": 18002855,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m18_00_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_18000870",
+        "activation_event": "Event_18002860",
+        "victory_event": "Event_18002850",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "0eabc4800d4172303043c21075f29ac72b76b72b167c2f344fd59cc107463f52",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_1042360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31150800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30020800": {
+      "active_flag": 30022805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_02_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_30022810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_30022800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_31030800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044360800": {
+      "active_flag": 1044362805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_44_36_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_1044362849",
+        "activation_event": "Event_1044362810",
+        "victory_event": "Event_1044362800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "8b879a3e0248d01a23d3f534797b25c0f953d728cfa02ce39d9505673fb9a045",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_1044350800": {
+      "active_flag": 1044352806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_44_35_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_31000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30040800": {
+      "active_flag": 30042805,
+      "validation": "user_tested",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_04_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_30042810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_30042800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": true,
+        "user_reported_on": "2026-10-02",
+        "user_report": "User reported that tracking works. No new measured trace or detailed test sequence is claimed."
+      }
+    },
+    "flag_31170800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30110800": {
+      "active_flag": 30112805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_11_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_30112810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_30112800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_18000800": {
+      "active_flag": 18002805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m18_00_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_18000820",
+        "activation_event": "Event_18002810",
+        "victory_event": "Event_18002800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "0eabc4800d4172303043c21075f29ac72b76b72b167c2f344fd59cc107463f52",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_1043360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1045390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042370800": {
+      "active_flag": 1042372806,
+      "validation": "user_tested",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_42_37_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      },
+      "evidence": {
+        "verification": "user_reported_full_tracking",
+        "reported_on": "2026-10-02",
+        "note": "User confirmed the tracker works for the Crucible Knight in Stormhill Evergaol. No new measurement trace is claimed.",
+        "pc_tested": true,
+        "user_reported_on": "2026-10-02",
+        "user_report": "User reported that tracking works. No new measured trace or detailed test sequence is claimed."
+      }
+    },
+    "flag_1043370800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042380800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042380850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30010800": {
+      "active_flag": 30012805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_01_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_30012810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_30012800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_30000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31020800": {
+      "active_flag": 31022805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m31_02_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_31022810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_31022800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_1043330800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1042330800": {
+      "active_flag": 1042332806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_42_33_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1044320850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044320800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1043300800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "margit": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "godrick": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31040800": {
+      "active_flag": 31042805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m31_04_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_31042810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_31042800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_31050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30060800": {
+      "active_flag": 30062805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_06_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30062849",
+        "activation_event": "Event_30062810",
+        "victory_event": "Event_30062800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "14829e44cf77ad71879b7f56fb429fe318a3caaf53beda153d74645acff84018",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_31060800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32020800": {
+      "active_flag": 32022805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m32_02_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_32022849",
+        "activation_event": "Event_32022810",
+        "victory_event": "Event_32022800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_30050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30050850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30030800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_10010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1034450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1035420800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1034480800": {
+      "active_flag": 1034482805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_34_48_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_1034482849",
+        "activation_event": "Event_1034482810",
+        "victory_event": "Event_1034482800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "d4c6a0c4761f12cef2beba0c6be044a0732a519f17e49e96146339d5e20a0e70",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_1039440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1033430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038410800": {
+      "active_flag": 1038412806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_38_41_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1033450800": {
+      "active_flag": 1033452806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_33_45_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1036500800": {
+      "active_flag": 1036502806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_36_50_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1039430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1036480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037420800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1036450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037460800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1035500800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_39200800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1034420800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1033420800": {
+      "active_flag": 1033422806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_33_42_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_14000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_14000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32070800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30140800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31210800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30150800": {
+      "active_flag": 30152805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_15_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_30152810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_30152800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_32080800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31110800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048370800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049380800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1047400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049370800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049370850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051360800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "radahn": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31200800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31100800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30160800": {
+      "active_flag": 30162805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_16_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30162849",
+        "activation_event": "Event_30162810",
+        "victory_event": "Event_30162800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "bdea3ad905010258c8877bd5dbdb276ed0a3abbe92ba84c6615bb91a35444312",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_34130800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1052410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049390850": {
+      "active_flag": 1049392856,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_49_39_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1052410850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31190850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31190800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_32040800": {
+      "active_flag": 32042805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m32_04_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_32042849",
+        "activation_event": "Event_32042810",
+        "victory_event": "Event_32042800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_32050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1040520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30080800": {
+      "active_flag": 30082805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_08_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30082849",
+        "activation_event": "Event_30082810",
+        "victory_event": "Event_30082800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "2143cafba97dd55dd56254c816175bf0411918de90cd7c3a9b18551780f92ef9",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_31180800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30120800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30070800": {
+      "active_flag": 30072805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_07_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30072849",
+        "activation_event": "Event_30072810",
+        "victory_event": "Event_30072800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "12c3c5d41cc3a282a7a441ce740d298620829cd71d4b2b7d1278511353ac50ea",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_1041520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038510800": {
+      "active_flag": 1038512805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_38_51_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_1038512849",
+        "activation_event": "Event_1038512810",
+        "victory_event": "Event_1038512800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "624f590f1bb22b7b5b4ced26899e66cd87e0204723aff4e52f6d395977bdd2b9",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_1040530800": {
+      "active_flag": 1040532805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_40_53_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_1040532849",
+        "activation_event": "Event_1040532810",
+        "victory_event": "Event_1040532800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "485155a59606cf57b4775584e077d0236467ec5e6d915d4734f6ffea90c847a8",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_1042550800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041500800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1038520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1041530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1039500800": {
+      "active_flag": 1039502806,
+      "validation": "user_tested",
+      "evidence": {
+        "entry": "four_run_trace",
+        "death": "trace_and_user_test",
+        "reset": "four_run_trace",
+        "victory": "user_reported"
+      },
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_39_50_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1039510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1039540800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_34120800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30130800": {
+      "active_flag": 30132805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_13_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "activation_event": "Event_30132810",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "victory_event": "Event_30132800",
+        "verification": "caller_and_local_ai_gate_reviewed",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_30100800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1045520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1044530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1043530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31090800": {
+      "active_flag": 31092805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m31_09_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_31092849",
+        "activation_event": "Event_31092810",
+        "victory_event": "Event_31092800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "390913746231180c5dd99a37a1730c35055c3e5e26da9f9e2b9df02c6f3589cf",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_31070800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30090800": {
+      "active_flag": 30092805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_09_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30092849",
+        "activation_event": "Event_30092810",
+        "victory_event": "Event_30092800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "02de99c1e9e314744982100a995a3b384658fdf2093946b3c397f141c6aa031d",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_1035530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1036540800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037530800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1037540810": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_16000860": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_16000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_16000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_35000850": {
+      "active_flag": 35002855,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m35_00_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_35002899",
+        "activation_event": "Event_35002860",
+        "victory_event": "Event_35002850",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "906b6d4be85c926beed27ae467b17a2df0aa0f9b8843ae0ec026f5193bc214e9",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_34140850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_35000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048510800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1049520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30170800": {
+      "active_flag": 30172805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_17_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30172849",
+        "activation_event": "Event_30172810",
+        "victory_event": "Event_30172800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "64ab0657c2975efdf4986c17941b058d05c439d7294ec5b1eee5cc0a65a64503",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_30180800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31220800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1254560800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1052560800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1053560800": {
+      "active_flag": 1053562806,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m60_53_56_00.evs.py",
+        "event": "CommonFunc_90005882",
+        "parameter": "flag_3"
+      }
+    },
+    "flag_1050570800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1051570800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1052520800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_13000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_13000830": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_13000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30200800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_30190800": {
+      "active_flag": 30192805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m30_19_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_30192849",
+        "activation_event": "Event_30192801",
+        "victory_event": "Event_30192800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "45fdf8449c9d8cdd91bcc37aa7290ccbac67c517d826c7c4d2ff6529f958e65c",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_32110800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_31120800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1050560800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1050570850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1248550800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_1048570800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_15000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_15000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12020830": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12080800": {
+      "active_flag": 12082805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m12_08_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_12082849",
+        "activation_event": "Event_12082810",
+        "victory_event": "Event_12082800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "e739972ce47a9c5c3d3a71ca9ab0b8f09016cc1aa4e8b061b95456912788b3e0",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_12020850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12090800": {
+      "active_flag": 12092805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m12_09_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_12092849",
+        "activation_event": "Event_12092810",
+        "victory_event": "Event_12092800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "233c1dd44ff769bf5914da0396284e3e9b64a1ea43d938aaffb6bc42b4735e50",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_12020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12010850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12040800": {
+      "active_flag": 12042805,
+      "validation": "documented",
+      "enabled": true,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m12_04_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_12042849",
+        "activation_event": "Event_12042810",
+        "victory_event": "Event_12042800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "6a10f5f5adca1808e0285a763764c6621d4cd6fe76229d60fc931e37ea7a031f",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false
+      }
+    },
+    "flag_12030390": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12030800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_12030850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11050850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_11050800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_19000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2045440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046410800": {
+      "active_flag": 2046412805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m61_46_41_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_2046412849",
+        "activation_event": "Event_2046412810",
+        "victory_event": "Event_2046412800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "2fec181fab8a0cfea6f5ba02fe8a00546a5771724c55db732d1f89d7a2e9d0f8",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_43000800": {
+      "active_flag": 43002805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m43_00_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_43002849",
+        "activation_event": "Event_43002810",
+        "victory_event": "Event_43002800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "2af37ff56a2fb39e8103a4762c3175be0fda54c50a10d99d5c247a483f5c3370",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_41020800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_41000800": {
+      "active_flag": 41002805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m41_00_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_41002849",
+        "activation_event": "Event_41002810",
+        "victory_event": "Event_41000800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "5612a7816fc2d704dd2fa448adcd68df99408b8c22fa189f275b3e99a7b77de6",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_20000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2048440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2044470800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049440800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049430850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2047450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2051440800": {
+      "active_flag": 2051442805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m61_51_44_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_2051442849",
+        "activation_event": "Event_2051442810",
+        "victory_event": "Event_2051442800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "f7e348eb68cd00c6e687cddff251498321b0fd5345ec643791097d0dcc496cea",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_25000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2051450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_40000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_40010800": {
+      "active_flag": 40012805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m40_01_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_40012849",
+        "activation_event": "Event_40012810",
+        "victory_event": "Event_40012800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "680f6a708e774474d0b45439148ff378cd022677683ccd15cfda0fee85d4d045",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_41010800": {
+      "active_flag": 41012805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m41_01_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_41012849",
+        "activation_event": "Event_41012810",
+        "victory_event": "Event_41012800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "c1fed29ca1772920518904cb30530481aa68d58cc2899859727fc16e76aa2636",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_21000850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_21010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046460800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2044450800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2048380850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046380800": {
+      "active_flag": 2046382805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m61_46_38_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_2046382849",
+        "activation_event": "Event_2046382810",
+        "victory_event": "Event_2046382800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "f27dc16684ce31e7ac18042b460a60118d2f0709359a5a0569a010ca9a4e50e3",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_22000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2047390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2046400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049410800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2052400800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_43010800": {
+      "active_flag": 43012805,
+      "validation": "documented",
+      "enabled": false,
+      "source": {
+        "repository": "Grimrukh/soulstruct-vanilla",
+        "revision": "e6de1b79370755152f4f89c4a106a2d67c9ae674",
+        "path": "eldenring/events/m43_01_00_00.evs.py",
+        "event": "CommonFunc_9005800",
+        "parameter": "flag_1"
+      },
+      "evidence": {
+        "caller_event": "Event_43012849",
+        "activation_event": "Event_43012810",
+        "victory_event": "Event_43012800",
+        "verification": "static_ast_caller_gate_and_victory",
+        "activation_condition": "FlagEnabled(active_flag) AND CharacterInsideRegion(PLAYER, arena)",
+        "source_sha256": "ea4316258df9781ffd5b8cd535f17dc609a3560aa13fa8b811cf63cb87abf458",
+        "reset": "not_verified_in_common_function",
+        "pc_tested": false,
+        "activation_blocked": "provisional_capacity_32"
+      }
+    },
+    "flag_2054390850": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2054390800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2050470800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2050480860": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2052480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2049480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2050480800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_2052430800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_28000800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    },
+    "flag_20010800": {
+      "active_flag": null,
+      "validation": "not_configured"
+    }
+  }
+}

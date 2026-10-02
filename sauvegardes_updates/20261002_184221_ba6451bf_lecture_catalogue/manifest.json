@@ -1,0 +1,56 @@
+{
+  "update": "scalable_catalogue_reader_v1",
+  "state": "applied",
+  "files": {
+    "tracker/boss_flags.py": {
+      "before": "a8c6d5ee4c4d6465e5f553c396ff8c2549e0f7cb87351ae3fae1352891ffa5bb",
+      "after": "b48a8e9101928165ab1f03da7b8fc4b78ea2c9a2879eeaddaa7d2e2198bd88dd"
+    },
+    "tracker/boss_reader.py": {
+      "before": "ff1bd691fb8472e15e0e18d30f0ba518ce4694f5d9722b31b076112e68b5f73a",
+      "after": "42cd9a1ac92e3c66fb3d54da13f2920f3ce5930ccf68d4f915958d42d0abf94e"
+    },
+    "tracker/combat_registry.py": {
+      "before": "b7ae8ddb5c5063335384b19ccc6a2f55063039e695dc36613b0955f7c316d1d9",
+      "after": "3b56bd434ffae24a2c801af595abe0c05d13206d2b81c6f29825a543d65ffcce"
+    },
+    "tests/test_classic_arena_update.py": {
+      "before": "c23b52e17f49b9374449a2edb63215aa4e3f1a6c56c7bd90b7f7363d5dc88d52",
+      "after": "558b9956a3f447512df881f4a67b77fca173e9bcbefe387af79ca8753e035b7e"
+    }
+  },
+  "summary": {
+    "catalogue_total": 207,
+    "configured": 47,
+    "active": 32,
+    "unconfigured": 160,
+    "complete_combat_coverage": false,
+    "associations_added": 0,
+    "synthetic_benchmark": {
+      "logical_flags": 416,
+      "baseline_memory_reads": 15823,
+      "batched_memory_reads_including_checks": 5079,
+      "reduction_percent": 67.9,
+      "synthetic_only": true
+    },
+    "compatibility_validation": "python_ast_equal_not_byte_equal",
+    "source_formats": {
+      "tracker/boss_flags.py": {
+        "sha256": "a8c6d5ee4c4d6465e5f553c396ff8c2549e0f7cb87351ae3fae1352891ffa5bb",
+        "normalized_git_blob": "6299f27ee2a62a79d01aabf91a07a2c79fea00f1",
+        "utf8_bom": false,
+        "crlf_lines": 81,
+        "lf_characters": 81,
+        "matched_version": "old"
+      },
+      "tracker/boss_reader.py": {
+        "sha256": "ff1bd691fb8472e15e0e18d30f0ba518ce4694f5d9722b31b076112e68b5f73a",
+        "normalized_git_blob": "a04a93a9da37cd63de8af228aadf148fc07f1a18",
+        "utf8_bom": false,
+        "crlf_lines": 79,
+        "lf_characters": 79,
+        "matched_version": "old"
+      }
+    }
+  }
+}

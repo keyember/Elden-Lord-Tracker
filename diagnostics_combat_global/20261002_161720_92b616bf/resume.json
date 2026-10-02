@@ -1,0 +1,30 @@
+{
+  "started_at": "2026-10-02T14:17:20.682111+00:00",
+  "source": {
+    "repository": "cobrce/Eldenring-boss-timer-ASL",
+    "revision": "9168393b5b9387c86867995fbb63295ac5aa2bb5",
+    "path": "eldenring_boss_timer.asl",
+    "variable": "vars.isBossFight",
+    "offset": "GameDataMan + 0xC0",
+    "validation": "historical_source_only_not_validated_for_game_1.17.1"
+  },
+  "read_only": true,
+  "game_version_declared": "1.17.1",
+  "identity_from_health_bars_implemented": false,
+  "attempts_recorded": false,
+  "code_replaced": false,
+  "project_head_reference": "360cc252066ab6e1837a6d1febec1a949931fb3e",
+  "local_file_sha256": {
+    "lecture_directe.py": "823ef7542fa60b01d919991f1a32b28b9366a9bff37ab2ca30f246d08ea09e01",
+    "diagnostic_memoire.py": "3d4e579fc6e96f25bebf178e8cb272b3306111323feb2c1e1a8a67769f3deda8",
+    "tracker/character_guard.py": "9a9481f0c24d35c7fc26c239fe67156c0554b8c8df3ee19e6768ce150da45e80"
+  },
+  "stop_reason": "error",
+  "error": "Lance une seule instance du jeu avec EAC desactive",
+  "ended_at": "2026-10-02T14:17:20.691667+00:00",
+  "elapsed_seconds": 0.009,
+  "raw_counts": {},
+  "states": {},
+  "transitions": {},
+  "markers": []
+}

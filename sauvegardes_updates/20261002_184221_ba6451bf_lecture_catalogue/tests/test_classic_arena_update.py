@@ -118,13 +118,13 @@ class ClassicArenaUpdateTests(unittest.TestCase):
         self.assertIsNone(self.registry.supported_spec(NEW_IDS[0]))
         self.assertEqual(len(self.registry.supported_specs(False)), self._expected_supported_count())
 
-    def test_catalogue_capacity_guard(self):
-        for index in range(208):
-            key='synthetic_'+str(index)
-            self.registry.BY_ID[key]=dict(id=key,flag_id=800000+index)
-            self.config['encounters'][key]=dict(active_flag=900000+index,validation='user_tested')
+    def test_32_guard_remains(self):
+        for index in range(21):
+            key = 'synthetic_' + str(index)
+            self.registry.BY_ID[key] = dict(id=key, flag_id=800000 + index)
+            self.config['encounters'][key] = dict(active_flag=900000 + index, validation='user_tested')
         self.save()
-        self.assertIn('catalogue',self.registry.read_configuration()[1])
+        self.assertIn('32', self.registry.read_configuration()[1])
 
     def test_stable_active_signal_counts_one_attempt(self):
         for key in NEW_IDS:

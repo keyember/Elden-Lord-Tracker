@@ -3,7 +3,7 @@
 import time,threading
 from .death_counter import DeathReader
 from .character_guard import NameReader
-from .boss_flags import locate_flags,flag,FlagBatch
+from .boss_flags import locate_flags,flag
 from .boss_catalog import BOSS_IDS,active_bosses
 from .combat_registry import supported_specs
 from .i18n import tr
@@ -26,14 +26,13 @@ class BossReader(DeathReader):
                     if not before['can_count']:
                         self._store(None);pending={};repeats={};self._boss_stop.wait(.25);continue
                     root=worker.ptr(worker.globals['identity_root']);player=worker.ptr(root+8);manager=worker.ptr(worker.globals['event_flags'])
-                    batch=FlagBatch(worker,manager,deadline=began+2.0)
-                    if batch.get(6000) is not False or batch.get(6001) is not True:raise ValueError(tr('Flags de controle incorrects'))
+                    if flag(worker,manager,6000) is not False or flag(worker,manager,6001) is not True:raise ValueError(tr('Flags de controle incorrects'))
                     states={key:None for key in BOSS_IDS};errors=[]
                     for boss in active_bosses():
                         if self._boss_stop.is_set():break
                         key=boss['id']
                         try:
-                            value=batch.get(boss['flag_id']);repeats[key]=repeats.get(key,0)+1 if pending.get(key) is value else 1;pending[key]=value
+                            value=flag(worker,manager,boss['flag_id']);repeats[key]=repeats.get(key,0)+1 if pending.get(key) is value else 1;pending[key]=value
                             if repeats[key]>=2:states[key]=value
                         except (OSError,ValueError,KeyError) as exc:
                             pending.pop(key,None);repeats.pop(key,None);errors.append(key+': '+str(exc))
@@ -41,19 +40,17 @@ class BossReader(DeathReader):
                     for spec in supported_specs():
                         key=spec['boss_id'];token='_combat_'+key;signals[key]=None
                         try:
-                            value=batch.get(spec['active_flag']);repeats[token]=repeats.get(token,0)+1 if pending.get(token) is value else 1;pending[token]=value
+                            value=flag(worker,manager,spec['active_flag']);repeats[token]=repeats.get(token,0)+1 if pending.get(token) is value else 1;pending[token]=value
                             victory=states.get(key)
                             if type(value) is bool and type(victory) is bool and repeats[token]>=2:signals[key]=dict(boss_id=key,active=value,victory=victory)
                         except (OSError,ValueError,KeyError) as exc:
                             pending.pop(token,None);repeats.pop(token,None);signal_errors[key]=str(exc)
-                    batch.verify()
                     after=worker.snapshot()
                     if worker.ptr(worker.globals['identity_root'])!=root or worker.ptr(root+8)!=player or worker.ptr(worker.globals['event_flags'])!=manager or not after['can_count'] or after.get('observed_character')!=self.expected:
                         self._store(None);pending={};repeats={}
                     else:
-                        batch._check()
                         error=(tr('Boss illisibles : ')+'; '.join(errors[:3])+(' ...' if len(errors)>3 else '')) if errors else None
-                        self._store(dict(time=began,root=root,player=player,states=states,error=error,combat_signals=signals,combat_errors=signal_errors))
+                        self._store(dict(time=time.monotonic(),root=root,player=player,states=states,error=error,combat_signals=signals,combat_errors=signal_errors))
                 except (OSError,ValueError,KeyError) as exc:
                     self._store(dict(time=time.monotonic(),error=str(exc),states=None));pending={};repeats={}
                 self._boss_stop.wait(max(.05,1-(time.monotonic()-began)))
@@ -80,5 +77,3 @@ class BossReader(DeathReader):
             if self._boss_thread is not threading.current_thread():self._boss_thread.join(timeout=2)
         super().close()
 # GENERIC_COMBAT_ENGINE_V1
-
-# SCALABLE_CONFIRMED_FLAGS_V1
