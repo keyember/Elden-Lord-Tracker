@@ -13,11 +13,20 @@ from .i18n import get_language, tr, translate_status
 # OVERLAY_I18N_V1
 OVERLAY_LABELS = ('CHALLENGE', 'TEMPS DE JEU', 'MORTS', 'BOSS VAINCUS', 'VICTOIRE', 'APERÇU', 'Aperçu de la victoire', 'PRÉVISUALISATION — AUCUNE VICTOIRE ENREGISTRÉE', 'Prévisualisation', 'Boss vaincu', 'Connexion au tracker interrompue', 'Chrono direct non demarre', 'Choisis le challenge puis demarre le chrono', 'Connexion interrompue / chrono non actualise', 'En attente', 'COMBAT EXPÉRIMENTAL', 'TENTATIVES OBSERVÉES', 'Hors combat', 'Combat en cours', 'Combat déjà commencé - début inconnu', 'Lecture du combat indisponible', 'Mort confirmée - attente du retour', 'Attente du retour hors combat', 'Suivi arrêté', 'Dernier résultat', 'Mort', 'Victoire', 'Interrompu - résultat inconnu', 'Résultat incertain', 'Victoire et mort observées', 'Prototype limité à', 'MORTS OBSERVÉES', 'COMBAT EN COURS', 'Aperçu de combat', 'Données fictives - aperçu', 'Documenté - non testé sur ton PC', 'Disponible - expérimental', 'Le suivi actif dépend des associations configurées.', 'Suivi expérimental', 'Plusieurs signaux de combat actifs - attribution suspendue', 'Configuration de combat indisponible')
 
+
 def progression(raw, ids=None):
     ids = tuple(b['id'] for b in active_bosses()) if ids is None else tuple(ids)
     states = {key: raw.get(key) if isinstance(raw, dict) and type(raw.get(key)) is bool else None for key in ids}
     known = sum(type(value) is bool for value in states.values())
     return dict(states=states, known=known, won=sum(value is True for value in states.values()), total=len(states), unknown=len(states)-known)
+
+
+def format_timer(seconds):
+    """Formate les secondes en HH:MM:SS"""
+    if not isinstance(seconds, (int, float)) or seconds < 0:
+        return 'N/A'
+    n = int(seconds)
+    return f'{n//3600:02d}:{n%3600//60:02d}:{n%60:02d}'
 
 
 def named_history(raw, language):
@@ -111,9 +120,24 @@ def state():
         if isinstance(report.get('combat_error'), str) and report['combat_error']:
             status += ' | ' + tr(report['combat_error'], language)
         result.update(challenge=profile.get('name'), character=report.get('character'), timer=report.get('timer'), deaths=deaths, defeated=defeated, boss_history=named_history(profile.get('boss_history'), language), profile_id=profile['id'], stale=stale, status=status, boss_states=summary['states'], boss_states_stale=cached, boss_known_count=summary['known'], boss_unknown_count=summary['unknown'], defeated_known_count=summary['won'] if summary['known'] else None, combat=decorate_combat(report.get('combat'), language))
+        
+        # Dernière mort
+        last_death = None
+        boss_history = profile.get('boss_history', [])
+        if isinstance(boss_history, list):
+            deaths = [e for e in boss_history if isinstance(e, dict) and e.get('type') == 'boss_attempt_end' and e.get('outcome') in ('death', 'victory_and_death')]
+            if deaths:
+                last = max(deaths, key=lambda d: d.get('observed_at', ''))
+                boss_id = last.get('boss_id', '')
+                last_death = {
+                    'boss_name': display_name(boss_id, language) if boss_id else tr('N/A', language),
+                    'timer': format_timer(last.get('run_seconds', 0))
+                }
+        result.update(last_death=last_death)
     except (OSError, ValueError, TypeError, KeyError, AttributeError):
         pass
     return result
+
 
 # ACTIVE_BOSS_SCOPE_V1
 
@@ -143,6 +167,8 @@ def decorate_combat(payload,language,stale=False):
 
 # GODEFROY_COMBAT_PROTOTYPE_V1
 
+
 # COMBAT_CONTEXTUAL_UI_V1
+
 
 # GENERIC_COMBAT_ENGINE_V1

@@ -1,5 +1,49 @@
 <!doctype html>
-<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=1920,height=1080"><title>Elden Lord Tracker — Overlay</title><link rel="stylesheet" href="style.css"></head>
-<body><aside class="challenge-panel" aria-label="Challenge"><div class="ornament">✦</div><span class="eyebrow">CHALLENGE</span><h1 id="challenge">N/A</h1><h2 id="character">N/A</h2><div class="rule"></div><div class="metrics"><div><span class="eyebrow">TEMPS DE JEU</span><strong id="timer">N/A</strong></div><div><span class="eyebrow">MORTS</span><strong id="deaths">N/A</strong></div></div><div class="rule"></div><div class="progress"><span class="eyebrow">BOSS VAINCUS</span><strong id="defeated">N/A</strong></div><footer id="status">En attente</footer></aside>
-<section id="victory" class="victory" aria-live="polite" aria-atomic="true"><canvas id="ash" aria-hidden="true"></canvas><div class="victory-content"><div class="top-rule"><i></i><b>✦</b><i></i></div><p id="victory-label">VICTOIRE</p><h3 id="victory-name"></h3><p id="victory-time"></p><div class="bottom-rule"><i></i><b>✦</b><i></i></div></div></section>
-<script src="overlay.js"></script></body></html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1920,height=1080" />
+    <title>Elden Lord Tracker — Overlay</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <aside class="challenge-panel" aria-label="Challenge">
+      <div class="ornament">✦</div>
+      <span class="eyebrow">CHALLENGE</span>
+      <h1 id="challenge">N/A</h1>
+      <h2 id="character">N/A</h2>
+      <div class="rule"></div>
+      <div class="metrics">
+        <div>
+          <span class="eyebrow">TEMPS DE JEU</span
+          ><strong id="timer">N/A</strong>
+        </div>
+        <div>
+          <span class="eyebrow">MORTS</span><strong id="deaths">N/A</strong>
+        </div>
+      </div>
+      <div class="rule"></div>
+      <div class="progress">
+        <span class="eyebrow">BOSS VAINCUS</span
+        ><strong id="defeated">N/A</strong>
+      </div>
+      <div class="rule"></div>
+      <div class="last-death">
+        <span class="eyebrow">DERNIÈRE MORT</span
+        ><strong id="last-death">N/A</strong>
+      </div>
+      <footer id="status">En attente</footer>
+    </aside>
+    <section id="victory" class="victory" aria-live="polite" aria-atomic="true">
+      <canvas id="ash" aria-hidden="true"></canvas>
+      <div class="victory-content">
+        <div class="top-rule"><i></i><b>✦</b><i></i></div>
+        <p id="victory-label">VICTOIRE</p>
+        <h3 id="victory-name"></h3>
+        <p id="victory-time"></p>
+        <div class="bottom-rule"><i></i><b>✦</b><i></i></div>
+      </div>
+    </section>
+    <script src="overlay.js"></script>
+  </body>
+</html>

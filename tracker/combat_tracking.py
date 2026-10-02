@@ -57,6 +57,10 @@ class CombatSession:
             self.events.append(new_event('boss_attempt_end', self.open['attempt_id'], round(self.seconds, 6), outcome=outcome, reason=reason, boss_id=self.boss_id))
             if outcome in ('death', 'victory_and_death'):
                 self.observed_boss_deaths += 1
+
+            if outcome in ('victory', 'victory_and_death'):
+                self.events.append(new_event('boss_victory', self.open['attempt_id'], round(self.seconds, 6), boss_id=self.boss_id))
+
             self.open = None
         self.last_result = outcome
         self.armed = False
