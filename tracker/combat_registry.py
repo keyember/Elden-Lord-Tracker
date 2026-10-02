@@ -40,3 +40,12 @@ def read_configuration():
     except (OSError,ValueError,TypeError):
         import sys
         return {},str(sys.exc_info()[1])
+
+if isinstance(SOURCE_BANK, dict):
+    supported_specs = list(SOURCE_BANK.values())  # Liste de dicts
+elif isinstance(SOURCE_BANK, list):
+    supported_specs = SOURCE_BANK  # Déjà une liste
+else:
+    supported_specs = []
+
+supported_spec = supported_specs

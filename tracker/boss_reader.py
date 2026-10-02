@@ -38,7 +38,7 @@ class BossReader(DeathReader):
                         except (OSError,ValueError,KeyError) as exc:
                             pending.pop(key,None);repeats.pop(key,None);errors.append(key+': '+str(exc))
                     signals={};signal_errors={}
-                    for spec in supported_specs():
+                    for spec in supported_specs:
                         key=spec['boss_id'];token='_combat_'+key;signals[key]=None
                         try:
                             value=batch.get(spec['active_flag']);repeats[token]=repeats.get(token,0)+1 if pending.get(token) is value else 1;pending[token]=value

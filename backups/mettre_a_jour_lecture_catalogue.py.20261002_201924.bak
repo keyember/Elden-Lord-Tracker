@@ -1,17 +1,3 @@
-import argparse
-import traceback
-
-def parse_args():
-    parser = argparse.ArgumentParser(description="Mettre a jour le catalogue")
-    parser.add_argument("--dry-run", action="store_true", help="Afficher les logs de debug")
-    return parser.parse_args()
-
-ARGS = parse_args()
-
-def log(*msg):
-    if ARGS.dry_run:
-        print("[DEBUG]", *msg)
-
 # ... (début inchangé jusqu'à check_configuration) ...
 
 def check_configuration(root,registry_text):
