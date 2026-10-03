@@ -7,8 +7,10 @@ import time
 from datetime import datetime
 from pathlib import Path
 
+
 HERE = Path(__file__).resolve().parent
 ROOT = next((p for p in (HERE, HERE.parent) if (p / "tracker" / "boss_reader.py").is_file()), None)
+
 
 def diagnostic(snap, boss_id):
     states = snap.get("boss_states")
@@ -27,6 +29,7 @@ def diagnostic(snap, boss_id):
         "boss_error": snap.get("boss_error"),
     }
 
+
 def scan_flags_range(reader, manager, start, end):
     """Scanne tous les flags dans [start, end] et retourne ceux qui sont True."""
     from tracker.boss_flags import flag
@@ -36,9 +39,10 @@ def scan_flags_range(reader, manager, start, end):
             value = flag(reader, manager, flag_id)
             if value is True:
                 active[flag_id] = True
-        except (OSError, ValueError, KeyError):
+        except (OSError, ValueError, KeyError):  # <-- ValueError est déjà là normalement
             pass
     return active
+
 
 def main():
     parser = argparse.ArgumentParser(description="Diagnostic avec scan large de flags")
@@ -46,7 +50,7 @@ def main():
     parser.add_argument("--boss-id", default="flag_1052410800")
     parser.add_argument("--scan-start", type=int, default=1052410000, help="Debut du scan large")
     parser.add_argument("--scan-end", type=int, default=1052413000, help="Fin du scan large")
-    parser.add_argument("--scan-interval", type=float, default=2.0, help="Secondes entre scans larges")
+    parser.add_argument("--scan-interval", type=float, default=0.05, help="Secondes entre scans larges (defaut 50ms)")
     args = parser.parse_args()
     
     if ROOT is None:
@@ -68,7 +72,7 @@ def main():
     
     print("Specs configurees :", json.dumps(specs, ensure_ascii=True))
     print(f"Scan large de {args.scan_start} a {args.scan_end}")
-    print(f"Intervalle de scan : {args.scan_interval}s")
+    print(f"Intervalle de scan : {args.scan_interval*1000:.0f}ms")
     print()
     print("1. Reste hors combat quelques secondes")
     print("2. Lance le combat")
@@ -129,7 +133,7 @@ def main():
                     last_full_scan = active_flags
                     next_scan = now + args.scan_interval
                 
-                time.sleep(0.1)
+                time.sleep(0.01)  # 10ms pour eviter de bouffer 100% CPU
     
     except KeyboardInterrupt:
         print("\nDiagnostic arrete. Journal conserve.")
@@ -143,6 +147,7 @@ def main():
         reader.close()
     
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

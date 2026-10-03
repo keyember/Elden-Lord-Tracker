@@ -1,10 +1,19 @@
 from .boss_catalog import BOSSES, BY_ID
 
+# Lit le JSON d'abord pour récupérer les active_flag personnalisés
+import json
+from pathlib import Path
+CONFIG_PATH = Path(__file__).resolve().parent / 'catalogue_data/combat_catalog.json'
+try:
+    doc = json.loads(CONFIG_PATH.read_text(encoding='utf-8-sig'))
+    COMBAT_ENTRIES = doc.get('encounters', {})
+except:
+    COMBAT_ENTRIES = {}
 
 SOURCE_BANK = {
     str(b['flag_id']): dict(
-        boss_id=b['id'],  # Utilise b['id'] directement au lieu de BY_ID[b['flag_id']]['id']
-        active_flag=b['flag_id'] + 2005,
+        boss_id=b['id'],
+        active_flag=COMBAT_ENTRIES.get(b['id'], {}).get('active_flag', b['flag_id'] + 2005),
         repository='soulsmodding.com/doku.php',
         revision='2025-02-27',
         path='tutorial:learning-how-to-use-emevd',
@@ -15,9 +24,7 @@ SOURCE_BANK = {
     for b in BOSSES
 }
 
-
 ENABLED_LEVELS = frozenset({'documented', 'user_tested'})
-
 
 def read_configuration():
     import json
@@ -54,20 +61,16 @@ def read_configuration():
         import sys
         return {}, str(sys.exc_info()[1])
 
-
 def supported_specs(include_disabled=False):
     specs = list(SOURCE_BANK.values())
     if include_disabled:
         return specs
     return [s for s in specs if s.get('validation') in ENABLED_LEVELS]
 
-
 def supported_spec(boss_id):
-    # Cherche par boss_id, pas par flag_id
     for key, spec in SOURCE_BANK.items():
         if spec.get('boss_id') == boss_id:
             return spec
     return None
-
 
 __all__ = ['SOURCE_BANK', 'supported_specs', 'supported_spec', 'read_configuration']
