@@ -19,11 +19,18 @@ from .challenge_ui import open_manager
 from .profiles import selected_profile
 from .live_engine import run_live
 
+
 class App:
 
     def __init__(self, root):
         prepare()
-        logging.basicConfig(filename=str(DATA / 'tracker.log'), level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s', encoding='utf-8')
+        logging.basicConfig(
+            filename=str(DATA / 'tracker.log'),
+            level=logging.INFO,
+            format='%(asctime)s %(levelname)s %(message)s',
+            encoding='utf-8'
+        )
+
         self.root = root
         self.queue = queue.Queue()
         self.worker = None
@@ -36,38 +43,316 @@ class App:
         self.active = None
         self.server = None
         self.closed = False
-        root.title('Elden Ring Tracker - v0.11.0 / overlay compact')
-        root.geometry('900x640')
-        f = ttk.Frame(root, padding=18)
-        f.pack(fill='both', expand=True)
-        ttk.Label(f, text=tr('Sauvegarde officielle - lecture seule')).pack(anchor='w')
-        ttk.Entry(f, textvariable=self.source, state='readonly').pack(fill='x', pady=6)
-        ttk.Button(f, text=tr('Choisir ER0000.sl2'), command=self.browse).pack(anchor='w')
-        ttk.Label(f, text=tr('Personnage a suivre')).pack(anchor='w', pady=(14, 5))
-        self.box = ttk.Combobox(f, textvariable=self.slot, state='readonly', width=55)
-        self.box.pack(anchor='w')
+
+        # ------------------------------------------------------------------
+        # Interface
+        # ------------------------------------------------------------------
+        root.title('Elden Lord Tracker - v0.11.0 / overlay compact')
+        root.geometry('820x700')
+        root.minsize(720, 620)
+        root.configure(bg='#0b0b0c')
+
+        style = ttk.Style(root)
+        try:
+            style.theme_use('clam')
+        except tk.TclError:
+            pass
+
+        bg = '#0b0b0c'
+        panel = '#141416'
+        panel_alt = '#101012'
+        border = '#2a2a2e'
+        text = '#f5f5f5'
+        muted = '#a1a1aa'
+        gold = '#b89b5e'
+        gold_hover = '#c7ad74'
+
+        style.configure(
+            'App.TFrame',
+            background=bg
+        )
+        style.configure(
+            'Card.TFrame',
+            background=panel
+        )
+        style.configure(
+            'CardAlt.TFrame',
+            background=panel_alt
+        )
+        style.configure(
+            'Title.TLabel',
+            background=bg,
+            foreground=text,
+            font=('Segoe UI Semibold', 20)
+        )
+        style.configure(
+            'Subtitle.TLabel',
+            background=bg,
+            foreground=muted,
+            font=('Segoe UI', 9)
+        )
+        style.configure(
+            'Section.TLabel',
+            background=panel,
+            foreground=gold,
+            font=('Segoe UI Semibold', 9)
+        )
+        style.configure(
+            'Body.TLabel',
+            background=panel,
+            foreground=text,
+            font=('Segoe UI', 10)
+        )
+        style.configure(
+            'Muted.TLabel',
+            background=panel,
+            foreground=muted,
+            font=('Segoe UI', 9)
+        )
+        style.configure(
+            'Status.TLabel',
+            background=panel_alt,
+            foreground=muted,
+            font=('Segoe UI', 9)
+        )
+        style.configure(
+            'Action.TButton',
+            background='#1d1d20',
+            foreground=text,
+            bordercolor=border,
+            lightcolor=border,
+            darkcolor=border,
+            padding=(14, 9),
+            font=('Segoe UI Semibold', 9)
+        )
+        style.map(
+            'Action.TButton',
+            background=[('active', '#29292d')],
+            foreground=[('active', '#ffffff')]
+        )
+        style.configure(
+            'Primary.TButton',
+            background=gold,
+            foreground='#111111',
+            bordercolor=gold,
+            lightcolor=gold,
+            darkcolor=gold,
+            padding=(16, 10),
+            font=('Segoe UI Semibold', 9)
+        )
+        style.map(
+            'Primary.TButton',
+            background=[('active', gold_hover)]
+        )
+        style.configure(
+            'Danger.TButton',
+            background='#1d1d20',
+            foreground=text,
+            bordercolor=border,
+            lightcolor=border,
+            darkcolor=border,
+            padding=(16, 10),
+            font=('Segoe UI Semibold', 9)
+        )
+        style.map(
+            'Danger.TButton',
+            background=[('active', '#29292d')]
+        )
+        style.configure(
+            'App.TCombobox',
+            fieldbackground='#1d1d20',
+            background='#1d1d20',
+            foreground=text,
+            bordercolor=border,
+            lightcolor=border,
+            darkcolor=border,
+            arrowcolor=gold,
+            padding=7
+        )
+        style.map(
+            'App.TCombobox',
+            fieldbackground=[('readonly', '#1d1d20')],
+            foreground=[('readonly', text)]
+        )
+        style.configure(
+            'App.TCheckbutton',
+            background=panel_alt,
+            foreground=text,
+            font=('Segoe UI', 9),
+            padding=(0, 2)
+        )
+        style.map(
+            'App.TCheckbutton',
+            background=[('active', panel_alt)],
+            foreground=[('active', text)]
+        )
+
+        root.columnconfigure(0, weight=1)
+        root.rowconfigure(0, weight=1)
+
+        f = ttk.Frame(root, style='App.TFrame', padding=(28, 24))
+        f.grid(row=0, column=0, sticky='nsew')
+        f.columnconfigure(0, weight=1)
+
+        header = ttk.Frame(f, style='App.TFrame')
+        header.grid(row=0, column=0, sticky='ew', pady=(0, 22))
+
+        ttk.Label(
+            header,
+            text='✦  ELDEN LORD TRACKER',
+            style='Title.TLabel'
+        ).pack(anchor='w')
+        ttk.Label(
+            header,
+            text='Challenge & Progress Tracker',
+            style='Subtitle.TLabel'
+        ).pack(anchor='w', pady=(3, 0))
+
+        # Save / character card
+        save_card = ttk.Frame(f, style='Card.TFrame', padding=(18, 16))
+        save_card.grid(row=1, column=0, sticky='ew', pady=(0, 12))
+        save_card.columnconfigure(0, weight=1)
+
+        ttk.Label(
+            save_card,
+            text=tr('Sauvegarde officielle - lecture seule'),
+            style='Section.TLabel'
+        ).grid(row=0, column=0, columnspan=2, sticky='w')
+
+        ttk.Entry(
+            save_card,
+            textvariable=self.source,
+            state='readonly',
+            font=('Segoe UI', 9)
+        ).grid(row=1, column=0, sticky='ew', pady=(10, 8))
+
+        ttk.Button(
+            save_card,
+            text=tr('Choisir ER0000.sl2'),
+            command=self.browse,
+            style='Action.TButton'
+        ).grid(row=1, column=1, sticky='e', padx=(10, 0))
+
+        ttk.Label(
+            save_card,
+            text=tr('Personnage a suivre'),
+            style='Section.TLabel'
+        ).grid(row=2, column=0, columnspan=2, sticky='w', pady=(12, 0))
+
+        self.box = ttk.Combobox(
+            save_card,
+            textvariable=self.slot,
+            state='readonly',
+            style='App.TCombobox',
+            width=55
+        )
+        self.box.grid(row=3, column=0, columnspan=2, sticky='ew', pady=(10, 0))
         self.set_names(self.names)
-        ttk.Button(f, text=tr('Demarrer / appliquer le slot'), command=self.start).pack(anchor='w', pady=12)
-        ttk.Button(f, text=tr('Arreter le suivi'), command=self.pause).pack(anchor='w')
-        ttk.Button(f, text=tr('Choisir / creer un challenge pour ce slot'), command=self.manage_challenge).pack(anchor='w', pady=8)
-        ttk.Button(f, text=tr("Ouvrir l'overlay"), command=lambda: webbrowser.open('http://127.0.0.1:8765')).pack(anchor='w', pady=8)
-        ttk.Button(f, text=tr('Ouvrir les donnees'), command=lambda: os.startfile(str(DATA))).pack(anchor='w')
-        ttk.Label(f, textvariable=self.status, wraplength=730).pack(anchor='w', pady=10)
-        ttk.Label(f, text=tr('Chrono, morts observees et progression automatique des boss suivis. Combat actuel et tentatives : N/A.')).pack(anchor='w')
-        langrow = ttk.Frame(f)
-        langrow.pack(anchor='w', pady=5)
-        ttk.Label(langrow, text=tr('Langue')).pack(side='left', padx=(0, 8))
+
+        # Challenge card
+        challenge_card = ttk.Frame(f, style='Card.TFrame', padding=(18, 16))
+        challenge_card.grid(row=2, column=0, sticky='ew', pady=(0, 12))
+        challenge_card.columnconfigure(0, weight=1)
+
+        ttk.Label(
+            challenge_card,
+            text='CHALLENGE',
+            style='Section.TLabel'
+        ).grid(row=0, column=0, sticky='w')
+
+        ttk.Label(
+            challenge_card,
+            text=tr('Choisir / creer un challenge pour ce slot'),
+            style='Body.TLabel'
+        ).grid(row=1, column=0, sticky='w', pady=(7, 10))
+
+        ttk.Button(
+            challenge_card,
+            text=tr('Choisir / creer un challenge pour ce slot'),
+            command=self.manage_challenge,
+            style='Action.TButton'
+        ).grid(row=2, column=0, sticky='w')
+
+        # Control row
+        controls = ttk.Frame(f, style='App.TFrame')
+        controls.grid(row=3, column=0, sticky='ew', pady=(2, 12))
+        controls.columnconfigure(0, weight=1)
+        controls.columnconfigure(1, weight=1)
+
+        ttk.Button(
+            controls,
+            text=tr('Demarrer / appliquer le slot'),
+            command=self.start,
+            style='Primary.TButton'
+        ).grid(row=0, column=0, sticky='ew', padx=(0, 6))
+
+        ttk.Button(
+            controls,
+            text=tr('Arreter le suivi'),
+            command=self.pause,
+            style='Danger.TButton'
+        ).grid(row=0, column=1, sticky='ew', padx=(6, 0))
+
+        # Status card
+        status_card = ttk.Frame(f, style='CardAlt.TFrame', padding=(18, 14))
+        status_card.grid(row=4, column=0, sticky='ew', pady=(0, 12))
+        status_card.columnconfigure(0, weight=1)
+
+        ttk.Label(
+            status_card,
+            text='ÉTAT',
+            style='Section.TLabel'
+        ).grid(row=0, column=0, sticky='w')
+
+        ttk.Label(
+            status_card,
+            textvariable=self.status,
+            wraplength=730,
+            style='Status.TLabel'
+        ).grid(row=1, column=0, sticky='w', pady=(7, 0))
+
+        ttk.Label(
+            status_card,
+            text=tr('Chrono, morts observees et progression automatique des boss suivis. Combat actuel et tentatives : N/A.'),
+            wraplength=730,
+            style='Status.TLabel'
+        ).grid(row=2, column=0, sticky='w', pady=(6, 0))
+
+        # Footer / settings
+        footer = ttk.Frame(f, style='CardAlt.TFrame', padding=(14, 10))
+        footer.grid(row=5, column=0, sticky='ew')
+        footer.columnconfigure(3, weight=1)
+
+        ttk.Label(
+            footer,
+            text=tr('Langue'),
+            style='Status.TLabel'
+        ).grid(row=0, column=0, sticky='w')
+
         self.language = tk.StringVar(value=get_language())
-        langbox = ttk.Combobox(langrow, textvariable=self.language, values=('fr', 'en'), state='readonly', width=6)
-        langbox.pack(side='left')
+        langbox = ttk.Combobox(
+            footer,
+            textvariable=self.language,
+            values=('fr', 'en'),
+            state='readonly',
+            width=6,
+            style='App.TCombobox'
+        )
+        langbox.grid(row=0, column=1, sticky='w', padx=(8, 14))
 
         def change_language(event=None):
             try:
                 set_setting('language', self.language.get())
-                messagebox.showinfo(tr('Langue'), tr('Langue enregistree. Relance le tracker pour traduire tous les boutons.'), parent=self.root)
+                messagebox.showinfo(
+                    tr('Langue'),
+                    tr('Langue enregistree. Relance le tracker pour traduire tous les boutons.'),
+                    parent=self.root
+                )
             except OSError as exc:
                 messagebox.showerror(tr('Erreur'), str(exc), parent=self.root)
+
         langbox.bind('<<ComboboxSelected>>', change_language)
+
         self.include_dlc = tk.BooleanVar(value=settings()['include_dlc'])
 
         def change_dlc():
@@ -75,18 +360,51 @@ class App:
                 set_setting('include_dlc', bool(self.include_dlc.get()))
             except OSError as exc:
                 messagebox.showerror(tr('Erreur'), str(exc), parent=self.root)
-        ttk.Checkbutton(langrow, text=tr('Inclure Shadow of the Erdtree'), variable=self.include_dlc, command=change_dlc).pack(side='left', padx=12)
-        ttk.Button(f, text=tr('Ouvrir le catalogue complet'), command=lambda: webbrowser.open('http://127.0.0.1:8765/catalogue.html')).pack(anchor='w', pady=5)
+
+        ttk.Checkbutton(
+            footer,
+            text=tr('Inclure Shadow of the Erdtree'),
+            variable=self.include_dlc,
+            command=change_dlc,
+            style='App.TCheckbutton'
+        ).grid(row=0, column=2, sticky='w')
+
+        ttk.Button(
+            footer,
+            text=tr("Ouvrir l'overlay"),
+            command=lambda: webbrowser.open('http://127.0.0.1:8765'),
+            style='Action.TButton'
+        ).grid(row=0, column=4, sticky='e', padx=(8, 6))
+
+        ttk.Button(
+            footer,
+            text=tr('Ouvrir les donnees'),
+            command=lambda: os.startfile(str(DATA)),
+            style='Action.TButton'
+        ).grid(row=0, column=5, sticky='e')
+
+        ttk.Button(
+            f,
+            text=tr('Ouvrir le catalogue complet'),
+            command=lambda: webbrowser.open('http://127.0.0.1:8765/catalogue.html'),
+            style='Action.TButton'
+        ).grid(row=6, column=0, sticky='e', pady=(10, 0))
+
+        # ------------------------------------------------------------------
+        # Existing application logic (unchanged)
+        # ------------------------------------------------------------------
         try:
             self.server = start_server()
         except OSError as exc:
             logging.exception('Serveur overlay indisponible')
             self.status.set(f"Port 8765 indisponible : ferme l'ancien lancer_overlay. {exc}")
+
         appdata = os.environ.get('APPDATA')
         saves = sorted((Path(appdata) / 'EldenRing').glob('*/ER0000.sl2')) if appdata else []
         if len(saves) == 1:
             self.source.set(str(saves[0]))
             self.request('names')
+
         root.protocol('WM_DELETE_WINDOW', self.close)
         root.after(150, self.poll)
 
@@ -152,7 +470,13 @@ class App:
             self.status.set(tr('Cree ou selectionne un challenge pour ce slot.'))
             return
         name = self.names[slot] or tr('Nom indisponible')
-        if not messagebox.askyesno(tr('Confirmer le personnage'), f"{tr('Chrono pour ')}{profile['name']} / {name} / slot {slot}.\nControle experimental du nom actif. Slot et identite durable non verifies. Noms identiques dans la save : suivi refuse. Solo avec EAC desactive.", parent=self.root):
+        if not messagebox.askyesno(
+            tr('Confirmer le personnage'),
+            f"{tr('Chrono pour ')}{profile['name']} / {name} / slot {slot}.\n"
+            f"Controle experimental du nom actif. Slot et identite durable non verifies. "
+            f"Noms identiques dans la save : suivi refuse. Solo avec EAC desactive.",
+            parent=self.root
+        ):
             return
         self.request('track')
 
@@ -184,7 +508,9 @@ class App:
                     break
                 export(report)
                 self.runtime(True, None)
-                text = '{} - Slot {} - Temps : {} (a verifier)'.format(report['character_name'], slot, report['timer'])
+                text = '{} - Slot {} - Temps : {} (a verifier)'.format(
+                    report['character_name'], slot, report['timer']
+                )
                 atomic_text(OBS / 'statut.txt', text)
                 self.queue.put(('status', text))
             except (OSError, ValueError) as exc:
@@ -215,6 +541,7 @@ class App:
             self.server.shutdown()
             self.server.server_close()
         self.root.destroy()
+
 
 def launch():
     root = tk.Tk()

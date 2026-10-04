@@ -7,9 +7,9 @@ if errorlevel 1 goto error
 if errorlevel 1 goto error
 .venv\Scripts\python.exe -m unittest discover -s tests -v
 if errorlevel 1 goto error
-.venv\Scripts\python.exe -m PyInstaller --noconfirm --clean --onedir --windowed --name EldenRingTracker --add-data "overlay;overlay" --add-data "tracker/locales;tracker/locales" --add-data "tracker/catalogue_data;tracker/catalogue_data" main.py
+.venv\Scripts\python.exe -m PyInstaller --noconfirm --clean --onedir --windowed --name EldenLordTracker --add-data "overlay;overlay" --add-data "tracker/locales;tracker/locales" --add-data "tracker/catalogue_data;tracker/catalogue_data" main.py
 if errorlevel 1 goto error
-echo Application creee dans dist\EldenRingTracker. Conserver tout le dossier.
+echo Application creee dans dist\EldenLordTracker. Conserver tout le dossier.
 pause
 exit /b 0
 :error

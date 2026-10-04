@@ -8,6 +8,7 @@ from .boss_catalog import BOSS_IDS,active_bosses
 from .combat_registry import supported_specs
 from .i18n import tr
 
+
 class BossReader(DeathReader):
     def __init__(self,expected):
         super().__init__(expected)
@@ -38,7 +39,7 @@ class BossReader(DeathReader):
                         except (OSError,ValueError,KeyError) as exc:
                             pending.pop(key,None);repeats.pop(key,None);errors.append(key+': '+str(exc))
                     signals={};signal_errors={}
-                    for spec in supported_specs:
+                    for spec in supported_specs():
                         key=spec['boss_id'];token='_combat_'+key;signals[key]=None
                         try:
                             value=batch.get(spec['active_flag']);repeats[token]=repeats.get(token,0)+1 if pending.get(token) is value else 1;pending[token]=value
@@ -80,5 +81,6 @@ class BossReader(DeathReader):
             if self._boss_thread is not threading.current_thread():self._boss_thread.join(timeout=2)
         super().close()
 # GENERIC_COMBAT_ENGINE_V1
+
 
 # SCALABLE_CONFIRMED_FLAGS_V1
